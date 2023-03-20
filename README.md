@@ -1,1 +1,1 @@
-# Explorer R/C+T
+# Explorer RxC+T
