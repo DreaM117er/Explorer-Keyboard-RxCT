@@ -1,1 +1,1 @@
-# Name: Explorer R/C+T
+# Explorer R/C+T
