@@ -1,1 +1,1 @@
-# Mobile-Suit-for-Split-Keyboard
+# Name: Explorer R/C+T
