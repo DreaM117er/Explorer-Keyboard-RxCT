@@ -60,7 +60,7 @@ RxCT是基於Dactyl Manuform家族中的5x6、Skeleton Edition及Bastardkb的TBK
 <img src="Pic/4-1.png" style="zoom: 50%;" >
 <img src="Pic/4-2.png" style="zoom: 50%;" >
 
-- 拇指定位板、連接器
+- 拇指定位板、拇指底板、連接器
 
 <img src="Pic/5-1.png" style="zoom: 50%;" >
 <img src="Pic/5-2.png" style="zoom: 50%;" >
