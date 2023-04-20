@@ -11,7 +11,7 @@ RxCT是基於Dactyl Manuform家族中的5x6、Skeleton Edition及Bastardkb的TBK
 ## 特色
 
 - Colume、拇指按鍵模組化設計
-- 可調整的整體角度的拇指區
+- 可調整整體角度的拇指區
 - 拇指最外側及最內側定位板可2檔微調
 
 ## 構造
