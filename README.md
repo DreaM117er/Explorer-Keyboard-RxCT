@@ -22,8 +22,6 @@ RxCT是基於Dactyl Manuform家族中的5x6、Skeleton Edition及Bastardkb的TBK
 - 矩陣及手拉線
 - QMK韌體修正
 
-正式開始
-
 ## 構造
 
 - 底殼（3x5及4x5基礎大小）
