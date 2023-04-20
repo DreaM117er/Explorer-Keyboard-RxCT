@@ -22,6 +22,8 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 - 矩陣及手拉線
 - QMK韌體修正
 
+Building Guide
+
 ## 構造
 
 - 底殼（3x5及4x5基礎大小）
