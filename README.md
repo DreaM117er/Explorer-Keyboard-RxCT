@@ -6,11 +6,11 @@
 
 ## 簡介
 
-RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)家族中的5x6、[Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)及[Bastardkb TBKmini](https://github.com/Bastardkb/TBK-Mini)這三把分離式鍵盤設計，其特點在於使用相機雲台作為主要的固定方式，以3x5及4x5為鍵盤的主配列，可向外側拓展1排的Colume，將鍵盤配列變更為3x6及4x6；拇指區基礎為1-4顆按鍵的設計，可根據底板的連接其橋接拇指區的每顆按鍵，再根據連接主鍵盤的基座，微調拇指區角度的機械分離式鍵盤。
+RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)家族中的5x6、[Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)及[Bastardkb TBKmini](https://github.com/Bastardkb/TBK-Mini)這三把分離式鍵盤設計，其特點在於使用相機雲台作為主要的固定方式，以3x5及4x5為鍵盤的主配列，可向外側拓展1排的按鍵，將鍵盤配列變更為3x6及4x6；拇指區基礎為1-4顆按鍵的設計，可根據底板的連接其橋接拇指區的每顆按鍵，再根據連接主鍵盤的基座，微調拇指區角度的機械分離式鍵盤。
 
 ## 特色
 
-- Colume、拇指按鍵模組化設計
+- 直列定位板、拇指按鍵模組化設計
 - 可調整整體角度的拇指區
 - 拇指最外側及最內側定位板可2檔微調
 - 主要雲台安裝位於底殼，可外掛雲台插件將雲台安裝在前端
