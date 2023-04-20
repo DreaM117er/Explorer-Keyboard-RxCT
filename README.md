@@ -22,7 +22,7 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 - 矩陣及手拉線
 - QMK韌體修正
 
-Building Guide
+組裝說明（Building Guide）
 
 ## 構造
 
