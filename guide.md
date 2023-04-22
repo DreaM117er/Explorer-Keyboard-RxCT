@@ -10,6 +10,9 @@
 
 - 選擇需要列印的部件並將它們列印下來，清除不需要的支撐。
 
+<img src="guide/1-1.png" style="zoom: 50%;" >
+<img src="guide/1-2.png" style="zoom: 50%;" >
+
 ### 工具準備
 
 1. 溫控電烙鐵及相關工具配件。
