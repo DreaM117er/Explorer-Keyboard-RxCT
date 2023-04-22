@@ -1,6 +1,6 @@
 # Explorer RxCT
 
-<img src="image0.jpg" style="zoom: 50%;" >
+<img src="image0.jpg" style="zoom: 30%;" >
 <img src="image1.png" style="zoom: 50%;" >
 <img src="image2.png" style="zoom: 50%;" >
 
@@ -75,4 +75,6 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 <img src="Pic/6-4.png" style="zoom: 50%;" >
 
 - 前方雲台插件
+
+<img src="Pic/6-5.png" style="zoom: 50%;" >；
 
