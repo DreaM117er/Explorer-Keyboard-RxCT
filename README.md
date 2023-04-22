@@ -76,5 +76,5 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 
 - 前方雲台插件
 
-<img src="Pic/6-5.png" style="zoom: 50%;" >；
+<img src="Pic/6-5.png" style="zoom: 50%;" >
 
