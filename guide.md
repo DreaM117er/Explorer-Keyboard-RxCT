@@ -41,7 +41,12 @@
 | 單格電路板 | 42 | [Link](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=) |
 | IN1418 貼片式T4 開關二級管 | 42 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111e26&id=614392649945&spm=a1z09.2.0.0.18132e8d8onSZm) |
 
+## 列印注意事項
+
+- 請根據需求先決定自己需要3x5/3x6或4x5/4x6等鍵盤主配列。
+
 ## 組裝步驟
+
 
 
 
