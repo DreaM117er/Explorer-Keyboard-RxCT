@@ -39,7 +39,10 @@
 | TRRS座 | 2 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas11d3b2&id=609114863623&spm=a1z09.2.0.0.18132e8d8onSZm) |
 | 28AWG 白色矽膠線 | N/A | [Link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=45709657945&_u=n3lhas114d82) |
 | 28AWG 紅色矽膠線 | N/A | [Link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=45709657945&_u=n3lhas114d82) |
+| 2.54mm 圓排針公 | N/A | [Link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=627707215622&_u=n3lhas11f450) |
+| 2.54mm 圓排針母 | N/A | [Link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=627818679656&_u=n3lhas11659a) |
 
+以下是推薦使用的材料
 
 ## 組裝步驟
 
