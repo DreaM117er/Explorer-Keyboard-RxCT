@@ -17,12 +17,6 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 
 ## 組裝說明
 
-- 注意事項
-- 前置作業
-- 組裝步驟
-- 矩陣及手拉線
-- QMK韌體修正
-
 [組裝說明（Building Guide）](guide.md)
 
 ## 構造
