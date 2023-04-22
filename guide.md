@@ -24,7 +24,6 @@
 
 - 熱壓螺母及螺絲的使用量相當高，推薦直接買一包備著用。
 - 能夠在同一個賣場買就在同一個賣場買，比較省錢。
-- 推薦使用單格電路板做矩陣建立：[探索者單格電路板](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=)
 
 | 材料名稱 | 最大用量 | 相關連結 |
 | -------- | ---- | ------ |
@@ -43,6 +42,7 @@
 | 2.54mm 圓排針公 | N/A | [Link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=627707215622&_u=n3lhas11f450) |
 | 2.54mm 圓排針母 | N/A | [Link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=627818679656&_u=n3lhas11659a) |
 | 外徑1mm 熱縮套管 | N/A | [Link](https://shopee.tw/(%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%BB%A0%E8%A3%BD)%E9%80%8F%E6%98%8E%E7%86%B1%E7%B8%AE%E5%A5%97%E7%AE%A1%E8%B3%A3%E5%A0%B4-%E7%86%B1%E7%B8%AE%E5%A5%97%E7%AE%A1-%E9%98%B2%E5%A1%B5%E5%A5%97-%E7%B5%95%E7%B7%A3%E7%AE%A1-%E7%AB%AF%E5%AD%90%E7%AE%A1-%E7%B5%95%E7%B7%A3-%E7%86%B1%E7%B8%AE%E7%AE%A1-%E7%86%B1%E7%B8%AE%E8%86%9C-%E7%86%B1%E7%B8%AE%E5%A5%97-%E8%9D%A6%E7%AB%BF-%E9%87%A3%E7%AB%BF-%E7%AB%AF%E5%AD%90-i.42958561.3656848147) |
+| 單格電路板 | 42 | [Link](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=) |
 | IN1418 貼片式T4 開關二級管 | 42 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111e26&id=614392649945&spm=a1z09.2.0.0.18132e8d8onSZm) |
 
 ## 組裝步驟
