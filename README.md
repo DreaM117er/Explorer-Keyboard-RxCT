@@ -1,4 +1,4 @@
-# Explorer RxCT
+# Explorer Keyboard RxCT （WIP）
 
 <img src="image0.jpg" style="zoom: 30%;" >
 <img src="image1.png" style="zoom: 50%;" >
