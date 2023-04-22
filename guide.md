@@ -28,11 +28,17 @@
 | -------- | ---- | ------ |
 | M2x3x3.2mm 熱壓螺母 | 76 | - |
 | M3x3x4.2mm 熱壓螺母 | 60 | - |
-| M2x5mm 薄頭螺絲 | 48 | - |
+| M2x5mm 薄頭螺絲 | 50 | - |
 | M2x8mm 薄頭螺絲 | 22 | - |
 | M3x6mm 薄頭螺絲 | 52 | - |
 | M3x8mm 薄頭螺絲 | 2 | - |
+| M3x6mm 扁頭螺絲 | 8 | - |
 | 1/4" 高6.35mm 熱壓螺母 | 4 | - |
+| Pro Micro 5V16M | 2 | - |
+| TRRS座 | 2 | - |
+| 28AWG 白色矽膠線 | N/A | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=45709657945&_u=n3lhas114d82 |
+| 28AWG 紅色矽膠線 | N/A | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=45709657945&_u=n3lhas114d82 |
+
 
 ## 組裝步驟
 
