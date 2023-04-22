@@ -36,6 +36,7 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 - 拇指底板連接器
 - 模組化主控座
 - 電池倉（2050規格聚合物鋰電池，3種厚度）
+- 前方雲台插件
 
 ## 構造圖
 
@@ -72,4 +73,6 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 <img src="Pic/6-2.png" style="zoom: 50%;" >
 <img src="Pic/6-3.png" style="zoom: 50%;" >
 <img src="Pic/6-4.png" style="zoom: 50%;" >
+
+- 前方雲台插件
 
