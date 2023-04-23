@@ -19,7 +19,7 @@
 
 ### 材料準備
 
-- 熱壓螺母及螺絲的使用量相當高，推薦直接買一包備著用。
+- 熱壓螺母及螺絲的使用量相當多，推薦直接買一包備著用。
 - 能夠在同一個賣場買就在同一個賣場買，比較省錢。
 - 推薦使用單格電路板組裝，邏輯比較好懂，也比較好拉矩陣。
 
@@ -79,9 +79,45 @@
 - 簡單的一個邏輯，跟外殼連接相關使用M3，跟定位板相關使用M2，請依據這個方式進行安裝。
 - 第一步先安裝熱壓螺母，電烙鐵使用定溫200度即可，溫度太高PLA外殼會融化。
 
--- 拇指區底板及連接器：
+### （一）熱壓螺母
 
+- 拇指區底板及連接器，使用M3螺母，連結器2個、底板2個：
+<img src="guide/1-1.jpg" style="zoom: 30%;" >
+<img src="guide/1-2.jpg" style="zoom: 30%;" >
 
+- 拇指AA、AB底板，M3、M2螺母各1個：
+<img src="guide/1-3.jpg" style="zoom: 30%;" >
+
+- 拇指定位板，使用M2螺母，單鍵2個：
+<img src="guide/2-1.jpg" style="zoom: 30%;" >
+<img src="guide/2-2.jpg" style="zoom: 30%;" >
+
+- TRRS主控座，M2螺母2個：
+<img src="guide/4-1.jpg" style="zoom: 30%;" >
+<img src="guide/4-2.jpg" style="zoom: 30%;" >
+
+- 斜角插件，M3螺母4個：
+<img src="guide/4-3.jpg" style="zoom: 30%;" >
+<img src="guide/4-4.jpg" style="zoom: 30%;" >
+
+- 直列定位板，一組4個，3x6配列單手需安裝6組:
+<img src="guide/6-1.jpg" style="zoom: 30%;" >
+<img src="guide/6-2.jpg" style="zoom: 30%;" >
+<img src="guide/6-3.jpg" style="zoom: 30%;" >
+
+- 單手外殼，M3螺母12個，1/4"螺母1個，位置如下：
+<img src="guide/7-1.jpg" style="zoom: 30%;" >
+<img src="guide/7-2.jpg" style="zoom: 30%;" >
+
+- 前方雲台插件（選配），1/4"螺母一個：
+<img src="guide/5-1.jpg" style="zoom: 30%;" >
+<img src="guide/5-2.jpg" style="zoom: 30%;" >
+
+- 電池倉（選配），M2螺母4個：
+<img src="guide/3-1.jpg" style="zoom: 30%;" >
+<img src="guide/3-2.jpg" style="zoom: 30%;" >
+
+### 外殼組裝
 
 
 ## 矩陣及手拉線
