@@ -135,7 +135,7 @@
 <img src="guide/10-1.jpg" style="zoom: 30%;" >
 <img src="guide/10-2.jpg" style="zoom: 30%;" >
 
-- 使用M2x5mm螺絲將主控座卡扣扣上，M3x6薄頭螺絲將主控座及斜角插件組合在一起，再跟底殼合併。
+- 使用M2x5mm螺絲將主控座卡扣扣上，M3x6mm薄頭螺絲將主控座及斜角插件組合在一起，再跟底殼合併。
 <img src="guide/11-1.jpg" style="zoom: 30%;" >
 <img src="guide/11-2.jpg" style="zoom: 30%;" >
 <img src="guide/11-3.jpg" style="zoom: 30%;" >
@@ -146,7 +146,7 @@
 <img src="guide/11-6.jpg" style="zoom: 30%;" >
 <img src="guide/11-7.jpg" style="zoom: 30%;" >
 
-
+### （三）拇指區
 
 
 
