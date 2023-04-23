@@ -109,7 +109,7 @@
 <img src="guide/7-1.jpg" style="zoom: 30%;" >
 <img src="guide/7-2.jpg" style="zoom: 30%;" >
 
-- 前方雲台插件（選配），1/4"螺母一個：
+- 前方雲台插件（選配），1/4"螺母1個：
 <img src="guide/5-1.jpg" style="zoom: 30%;" >
 <img src="guide/5-2.jpg" style="zoom: 30%;" >
 
