@@ -1,4 +1,4 @@
-# Explorer Keyboard RxCT （WIP）
+# Explorer Keyboard RxCT 探索者1號（WIP）
 
 <img src="image0.jpg" style="zoom: 30%;" >
 <img src="image1.png" style="zoom: 50%;" >
