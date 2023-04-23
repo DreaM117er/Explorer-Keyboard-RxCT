@@ -1,4 +1,4 @@
-# Explorer Keyboard RxCT 探索者1號（WIP）
+# Explorer Keyboard RxCT 探索者1號
 
 <img src="image0.jpg" style="zoom: 30%;" >
 <img src="image1.png" style="zoom: 50%;" >
@@ -17,7 +17,7 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 
 ## 組裝說明
 
-[組裝說明（Building Guide）](guide.md)
+[組裝說明（Building Guide）](guide.md) （WIP）
 
 ## 構造
 
