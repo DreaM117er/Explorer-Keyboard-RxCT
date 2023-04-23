@@ -74,3 +74,7 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 
 <img src="Pic/6-5.png" style="zoom: 50%;" >
 
+## 特別感謝
+
+- [Pragmatic務實鍵盤](https://github.com/jamessa/Pragmatic)及開發者[James Sa](https://github.com/jamessa)。
+- [務實鍵盤官方網站](https://www.pragmatic.com.tw/)
