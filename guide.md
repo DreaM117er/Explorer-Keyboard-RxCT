@@ -61,6 +61,7 @@
 | 上框架（upper main frame） | Yes | 3x5 | 4x5 | 3x5、4x5不共用 |
 | 共用下框（lower main frame） | Yes | - | - | 3x5、4x5通用 |
 | 拓展框架（x1-main frame） | - | - | - | 一組左右拓展需列印4組 |
+| 前方雲台插件（front basepart） | Yes | - | - | 左右邊可通用 |
 
 
 ## 組裝步驟
