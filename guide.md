@@ -66,7 +66,7 @@
 | 拇指定位板（x1-thumb plate） | - | - | - | 依據拇指按鍵數量列印 |
 | 拇指底板AX（thumb AX plate） | Yes | AA（長板） | AB（短板） | 可連結基座 |
 | 拇指底板BX（thumb BX plate） | Yes | BA（長板） | BB（短板） | 純拓展，左右通用 |
-| 連結器（linker） | - | - | - | 左右通用，2組按鍵需用1組連結器 |
+| 連接器（linker） | - | - | - | 左右通用，2組按鍵需用1組連接器 |
 | TRRS主控底座（trrs mcu base） | Yes | MCU卡扣（mcu stuck） | TRRS卡扣（trrs stuck） | - |
 | 無線主控底座（mcu base） | Yes | MCU卡扣（mcu stuck） | - | 左右通用 |
 | 斜角插件（mcu base angle） | Yes | - | - | 左右通用，必要組件 |
