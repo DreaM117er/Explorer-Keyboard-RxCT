@@ -6,7 +6,7 @@
 
 ## 簡介
 
-RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)家族中的5x6、[Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)及[Bastardkb TBKmini](https://github.com/Bastardkb/TBK-Mini)這三把分離式鍵盤設計，其特點在於使用相機雲台作為主要固定方式，以3x5及4x5為鍵盤的主配列，可向外側拓展1排按鍵，將鍵盤配列變更為3x6及4x6；拇指區基礎為1-4顆按鍵設計，可依據底板連接器橋接拇指區的每顆按鍵，再根據連接主鍵盤的基座，微調拇指區角度的分離式機械鍵盤。
+RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)家族中的5x6、[Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)及[Bastardkb TBKmini](https://github.com/Bastardkb/TBK-Mini)這三把分離式鍵盤設計，其特點在於使用相機雲台作為主要固定方式，以3x5及4x5為鍵盤主配列，可向外側拓展1排按鍵，將鍵盤配列變更為3x6及4x6；拇指區基礎為1-4顆按鍵設計，可依據底板連接器橋接拇指區的每顆按鍵，再根據連接主鍵盤的基座，微調拇指區角度的分離式機械鍵盤。
 
 ## 特色
 
