@@ -29,7 +29,7 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 - 拇指定位板
 - 拇指底板（2片可接基座、2片純拓展）
 - 拇指底板連接器
-- 模組化主控座
+- 主控座（可安裝TRRS、純MCU）
 - 電池倉（2050規格聚合物鋰電池，3種厚度）
 - 前方雲台插件
 - 田字拇指區拓展（開發中）
