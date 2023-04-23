@@ -148,9 +148,29 @@
 
 ### （三）拇指區
 
+- 將拇指區的部件準備好，首先使用M3x6的螺絲將需要的按鍵底板連接在一起，這裡演示的是+3的按鍵，會使用上AB底板、BA底板、BB底板及連接器2組。
+<img src="guide/12-1.jpg" style="zoom: 30%;" >
+<img src="guide/12-2.jpg" style="zoom: 30%;" >
 
+- 只有拇指AA及AB底板可連接基座，務必選擇這2片底板其中之一進行安裝。
+<img src="guide/1-3.jpg" style="zoom: 30%;" >
 
+- 基座部分使用M3x8mm螺絲，可微調角度的部分使用M2x5mm螺絲，決定好角度之後再將整組基座用M3x6螺絲4個安裝在底殼上。
+<img src="guide/12-3.jpg" style="zoom: 30%;" >
+<img src="guide/12-4.jpg" style="zoom: 30%;" >
+<img src="guide/12-5.jpg" style="zoom: 30%;" >
 
+- 接著將拇指定位板使用M2x5mm螺絲鎖上，最外側及最內側的定位板可依據手感要求進行前後挪移，但這僅有拇指AX及BX底板可以做改裝。
+<img src="guide/12-6.jpg" style="zoom: 30%;" >
+<img src="guide/12-7.jpg" style="zoom: 30%;" >
+<img src="guide/12-8.jpg" style="zoom: 30%;" >
+
+- 最後將鍵盤主體安裝在雲台上就大功告成。
+<img src="guide/13-1.jpg" style="zoom: 30%;" >
+<img src="guide/13-2.jpg" style="zoom: 30%;" >
+<img src="guide/13-3.jpg" style="zoom: 30%;" >
+
+- 鍵盤外殼安裝完成後，請先將鍵軸及鍵帽預先安裝上鍵盤，找出有沒有不合需求的地方，有的話就進行修改，直到確定配列不會更動後，再來進行矩陣建立及佈線。
 
 ## 矩陣及手拉線
 
