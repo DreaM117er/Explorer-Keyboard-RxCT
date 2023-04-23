@@ -58,6 +58,9 @@
 | 直列定位板（column） | - | 3x1 | 4x1 | 5列鍵盤需列印10組、6列12組 |
 | 底殼（bottom case） | Yes | 3x5 | 4x5 | - |
 | 底殼拓展（bottom expand case） | Yes | 3x1 | 4x1 | - |
+| 上框架（upper main frame） | Yes | 3x5 | 4x5 | 3x5、4x5不共用 |
+| 共用下框（lower main frame） | Yes | - | - | 3x5、4x5通用 |
+| 拓展框架（x1-main frame） | - | - | - | 一組左右拓展需列印4組 |
 
 
 ## 組裝步驟
