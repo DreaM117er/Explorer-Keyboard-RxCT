@@ -123,7 +123,7 @@
   - 辨識上框及下框的方法：下框中指區的部分只會有1個螺絲孔，上框會有2個。
   - 辨識左右邊基座的方法：完整弧形的區塊朝外。
 <img src="guide/8-1.jpg" style="zoom: 50%;" >
-<img src="guide/8-2.jpg" style="zoom: 50%;" >
+<img src="guide/8-2.png" style="zoom: 50%;" >
 
 
 ## 矩陣及手拉線
