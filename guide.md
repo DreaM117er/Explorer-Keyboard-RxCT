@@ -160,7 +160,7 @@
 <img src="guide/12-4.jpg" style="zoom: 30%;" >
 <img src="guide/12-5.jpg" style="zoom: 30%;" >
 
-- 接著將拇指定位板使用M2x5mm螺絲鎖上，最外側及最內側的定位板可依據手感要求進行前後挪移，但這僅有拇指AX及BX底板可以做改裝。
+- 接著將拇指定位板使用M2x5mm螺絲鎖上，最外側及最內側的定位板可依據手感要求進行前後挪移，但這僅有拇指AA及BA底板可以做改裝。
 <img src="guide/12-6.jpg" style="zoom: 30%;" >
 <img src="guide/12-7.jpg" style="zoom: 30%;" >
 <img src="guide/12-8.jpg" style="zoom: 30%;" >
