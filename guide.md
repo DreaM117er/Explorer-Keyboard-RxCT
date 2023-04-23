@@ -62,7 +62,11 @@
 | 共用下框（lower main frame） | Yes | - | - | 3x5、4x5通用 |
 | 拓展框架（x1-main frame） | - | - | - | 一組左右拓展需列印4組 |
 | 前方雲台插件（front basepart） | Yes | - | - | 左右邊可通用 |
-
+| 拇指區基座（thumb area basepart） | Yes | - | - | - |
+| 拇指定位板（x1-thumb plate） | - | - | - | 依據拇指按鍵數量列印 |
+| 拇指底板AX（thumb AX plate） | Yes | AA（長板） | AB（短板） | 可連結基座 |
+| 拇指底板BX（thumb BX plate） | Yes | BA（長板） | BB（短板） | 純拓展，左右通用 |
+| 連結器（linker） | - | - | - | 左右通用，2組按鍵需用1組連結器 |
 
 ## 組裝步驟
 
