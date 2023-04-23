@@ -67,6 +67,11 @@
 | 拇指底板AX（thumb AX plate） | Yes | AA（長板） | AB（短板） | 可連結基座 |
 | 拇指底板BX（thumb BX plate） | Yes | BA（長板） | BB（短板） | 純拓展，左右通用 |
 | 連結器（linker） | - | - | - | 左右通用，2組按鍵需用1組連結器 |
+| TRRS主控底座（trrs mcu base） | Yes | MCU卡扣（mcu stuck） | TRRS卡扣（trrs stuck） | - |
+| 無線主控底座（mcu base） | Yes | MCU卡扣（mcu stuck） | - | 左右通用 |
+| 斜角插件（mcu base angle） | Yes | - | - | 左右通用，必要組件 |
+| 電池倉上蓋（case cover） | Yes | - | - | 左右通用，厚度通用 |
+| 電池盒（box） | Yes | - | - | 左右通用，2050（20x50mm）規格，厚度6mm、8mm、10mm可選 |
 
 ## 組裝步驟
 
