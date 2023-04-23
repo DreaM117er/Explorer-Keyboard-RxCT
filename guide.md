@@ -126,6 +126,14 @@
 - 辨識左右邊基座的方法：完整弧形的區塊朝外。
 <img src="guide/8-2.png" style="zoom: 100%;" >
 
+1. 將直列定位板及框架使用M2x5mm的薄頭螺絲固定，拓展框架（x1-main frame）亦同。
+<img src="guide/9-1.jpg" style="zoom: 30%;" >
+<img src="guide/9-2.jpg" style="zoom: 30%;" >
+<img src="guide/9-3.jpg" style="zoom: 30%;" >
+
+2. 使用M3x6薄頭螺絲將拓展底板跟底殼接上。
+<img src="guide/10-1.jpg" style="zoom: 30%;" >
+<img src="guide/10-2.jpg" style="zoom: 30%;" >
 
 
 
