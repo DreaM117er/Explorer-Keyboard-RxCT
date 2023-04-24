@@ -37,11 +37,16 @@
 
 綜合起來歸納出來幾點是我想改進的：
 
-1. 長得像TBKmini的3x6+3，合計42鍵的鍵盤。
-2. 中指區要跟食指無名指齊平。
-3. 拇指區要能夠遵守正常擺放及使用不會把筋爆出來的原則。
-4. 拇指區要能夠微調角度。
-5. 長得要跟[Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)一樣Cyberpunk。
+- 長得像TBKmini的3x6+3，合計42鍵的鍵盤。
+- 根據使用鍵盤時手指正常移動的軌跡後發現需要讓中指區跟食指、無名指區域齊平。
+<img src="log/1-1.jpg" style="zoom: 50%;" >
+<img src="log/1-2.jpg" style="zoom: 50%;" >
+
+- 拇指區要能夠遵守正常擺放及使用不會把筋爆出來的原則。
+<img src="log/1-3.jpg" style="zoom: 50%;" >
+
+- 拇指區要能夠微調角度。
+- 長得要跟[Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)一樣Cyberpunk。
 
 ## 設計過程
 
