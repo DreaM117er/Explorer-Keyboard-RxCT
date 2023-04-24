@@ -52,15 +52,15 @@
 
 ## 設計過程
 
-起初在Facebook社團[Mechanical Keyboards USA](https://www.facebook.com/groups/mechanicalkeyboardsusa)的一位老哥在我的文章底下的留言，說自己嘗試組裝Skeleton Edition失敗，於是問了怎麼個失敗法？結果對方也沒有回覆我，一直讓我通靈解決問題，但同時我也被這把鍵盤那Cyberpunk的外觀給煞到了，當時又處於[EdgeRunners](https://www.cyberpunk.net/zh-tw/edgerunners)的流行期間，我當時所有的Fusion360的鍵盤設計都有那個味道在...
+起初在Facebook社團[Mechanical Keyboards USA](https://www.facebook.com/groups/mechanicalkeyboardsusa)的一位老哥在我的文章底下留言，說自己嘗試組裝Skeleton Edition失敗，於是問了怎麼個失敗法？結果對方也沒有回覆我，一直讓我通靈解決問題，但同時我也被這把鍵盤那Cyberpunk的外觀給煞到了，當時又處於[EdgeRunners](https://www.cyberpunk.net/zh-tw/edgerunners)流行期間，我當時所有的Fusion360的設計都有那個味道在...
 
-第一次設計出來的模型長的跟Skeleton Edition非常相似，底座更改為球體，走線都走在球體內，但我沒有想到3D列印的公差，於是整個模型呈現一個大失敗，熱壓螺母的定位孔也直接崩解，不鏽鋼柱由於沒有計算到公差而無法順利的安裝，甚至有一處直接被我壓到裂開；定位板的部分則是沒有計算好按鍵跟按鍵之間的距離，導致安裝好鍵帽之後直接卡死。最後詢問James大致上3D列印的公差後，正式開始了第二次的設計。
+第一次設計出來的模型長的跟Skeleton Edition非常相似，底座更改為球體，走線都走在球體內，但我沒有想到3D列印的公差，於是整個模型呈現一個大失敗，熱壓螺母的定位孔也直接崩解，不鏽鋼柱由於沒有計算到公差而無法順利的安裝，甚至有一處直接被我壓到裂開；定位板的部分則是沒有計算好按鍵跟按鍵之間的距離，導致安裝好鍵帽之後直接卡死。最後詢問James大致上3D列印的公差後，正式開始了第二次設計。
 
 <img src="log/2-1.jpg" style="zoom: 50%;" >
 <img src="log/2-2.jpg" style="zoom: 50%;" >
 <img src="log/2-3.jpg" style="zoom: 50%;" >
 
-我在第一次的模型設計後就有發現，拇指區相當難設計，主鍵區真的還好，我很早就設計出來，而且有很多不同的構想。有了第一次的失敗，我就決定慢慢來，第二次設計的時候循序漸進先將主鍵區的公差搞定，結果左右距離過遠，但確實手感相當的好，於是就依據這個主鍵區模型開始後續探索者的設計...
+我在第一次的模型設計後就有發現，拇指區相當難設計，主鍵區真的還好，我很早就將模型設計出來了，而且有很多不同的構想。有第一次的失敗後就決定慢慢來，設計循序漸進地先將主鍵區的公差搞定，結果左右距離過遠（汗），但確實手感相當的好，於是就依據這個主鍵區模型開始後續探索者的設計...
 
 <img src="log/3-1.jpg" style="zoom: 50%;" >
 <img src="log/3-2.jpg" style="zoom: 50%;" >
