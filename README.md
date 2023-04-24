@@ -80,3 +80,4 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 - [Pragmatic務實鍵盤](https://github.com/jamessa/Pragmatic)及開發者[James Sa](https://github.com/jamessa)，在3D設計、3D列印、韌體代碼、[人體工學邏輯](https://www.youtube.com/watch?v=p7gZdOTpbP8)上的指導。
 - [務實鍵盤官方網站](https://www.pragmatic.com.tw/)
 - [Bastardkb](https://bastardkb.com/?fbclid=IwAR0HTUxLdHe8ZL2sCDtqDt270YRag5GlEKGHjyKge5UxckXjq_M7VrpKhu0) [TBKmini](https://bastardkb.com/product/tbk-mini-kit/)、[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform) 5x6、[Dactyl Manuform Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)，沒有接觸到你們，也不會有探索者的誕生。
+- [開發日誌](log.md)
