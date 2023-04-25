@@ -29,11 +29,11 @@
 
 從我開始入手使用分離式人體工學鍵盤後，就發現每把鍵盤都有1個到2個我覺得是缺點的地方，打個比方：
 
-- [Corne](https://github.com/foostan/crkbd)的拇指區，最內側的按鍵真的是相當的難按，而且相當的不舒適。
-- [TBKmini](https://github.com/Bastardkb/TBK-Mini)則是中指太過於下凹，導致我在移動食指中指的時候非常容易卡到鍵帽。
+- [Corne](https://github.com/foostan/crkbd)的拇指區，最內側的按鍵真的是相當地難按，而且相當不舒適。
+- [TBKmini](https://github.com/Bastardkb/TBK-Mini)則是中指太過下凹，導致我在移動食指中指的時候非常容易卡到鍵帽。
 - [TBKmini](https://github.com/Bastardkb/TBK-Mini)後來經過James的指導後發現拇指區正常擺放時也會有傷害到手指的疑慮，觀察過後真的是如此。
 - [Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)原本會是我的下一把鍵盤，但礙於沒有3x6+3的配列，也就成為我開始設計鍵盤的主因之一。
-- [Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)則是體積太大，底座太高，不然它真的相當的舒適。
+- [Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)則是體積太大，底座太高，不然它真的相當舒適。
 
 綜合起來歸納出來幾點是我想改進的：
 
