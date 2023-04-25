@@ -31,10 +31,10 @@
 | 材料名稱 | 左右手合計最大用量 | 相關連結 |
 | -------- | ---- | ------ |
 | M2x3x3.2mm 熱壓螺母 | 76 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas116742&id=673922235027&spm=a1z09.2.0.0.18132e8d8onSZm) |
-| M3x3x4.2mm 熱壓螺母 | 60 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas116742&id=673922235027&spm=a1z09.2.0.0.18132e8d8onSZm) |
+| M3x3x4.2mm 熱壓螺母 | 62 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas116742&id=673922235027&spm=a1z09.2.0.0.18132e8d8onSZm) |
 | M2x5mm 薄頭螺絲 | 50 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111f9d&id=595144522232&spm=a1z09.2.0.0.18132e8d8onSZm) |
 | M2x8mm 薄頭螺絲 | 22 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111f9d&id=595144522232&spm=a1z09.2.0.0.18132e8d8onSZm) |
-| M3x6mm 薄頭螺絲 | 52 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111f9d&id=595144522232&spm=a1z09.2.0.0.18132e8d8onSZm) |
+| M3x6mm 薄頭螺絲 | 54 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111f9d&id=595144522232&spm=a1z09.2.0.0.18132e8d8onSZm) |
 | M3x8mm 薄頭螺絲 | 2 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111f9d&id=595144522232&spm=a1z09.2.0.0.18132e8d8onSZm) |
 | M3x6mm 扁頭螺絲 | 8 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas11735e&id=624733978863&spm=a1z09.2.0.0.18132e8d8onSZm) |
 | 1/4" 高6.35mm 熱壓螺母 | 4 | [Link](https://item.taobao.com/item.htm?spm=a1z0d.6639537/tb.1997196601.82.3d385886uNMAFA&id=662099841891) |
