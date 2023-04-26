@@ -186,5 +186,29 @@
 - 按照矩陣走線圖邏輯焊接矩陣，這兩張圖已經包含TRRS座的走線方式，至於MCU腳位的使用後面會解釋說明。
 - 首先將單格電路板焊上貼片式T4開關二極管，照片這裡沒有將熱插拔座焊上去，可依照自己的需求選擇，沒有侷限。
 
+<img src="guide/14-1.jpg" style="zoom: 50%;" >
+
+- 將鍵軸放在定位板上後，單格電路板接著對著針腳放好，用烙鐵先將針腳的一邊先固定。
+
+<img src="guide/14-2.jpg" style="zoom: 50%;" >
+<img src="guide/14-3.jpg" style="zoom: 50%;" >
+<img src="guide/14-4.jpg" style="zoom: 50%;" >
+
+- 接著單手壓著電路板，將已經固定的單邊焊錫再融化一次把電路板固定好後，再把另一邊的針腳焊上（沒有針腳全部焊上的照片）。
+
+<img src="guide/14-5.jpg" style="zoom: 50%;" >
+
+- 拓展板的部分將鍵軸安裝上定位板後會晃動，因此先將前後端的鍵帽裝上後再上焊錫固定；單鍵拇指區也是如此動作。
+
+<img src="guide/14-6.jpg" style="zoom: 50%;" >
+<img src="guide/14-7.jpg" style="zoom: 50%;" >
+<img src="guide/14-8.jpg" style="zoom: 50%;" >
+
+- 最後將電路板上的Row、Col用電線按矩陣圖接上，這裡建議先將主配列焊接好後再焊拓展、拇指區的部分還要計算底板的長度決定Row使用的電線（如果不在意的話就用長一點的電線連接）。
+
+<img src="guide/15-1.jpg" style="zoom: 50%;" >
+<img src="guide/15-2.jpg" style="zoom: 50%;" >
+<img src="guide/15-3.jpg" style="zoom: 50%;" >
+
 
 ## QMK韌體修正
