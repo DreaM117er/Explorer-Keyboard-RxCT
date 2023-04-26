@@ -180,7 +180,7 @@
 ## 矩陣及佈線
 
 - 3x5、3x6及4x5、4x6矩陣走線圖：
-- 按照矩陣走線圖邏輯焊接矩陣，這兩張圖已經包含TRRS座的走線方式，至於MCU腳位的使用後面會解釋說明。
+- 按照矩陣走線圖邏輯焊接矩陣，這兩張圖已經包含TRRS座的走線方式及排線的接法，MCU腳位的使用後面會解釋說明。
 
 <img src="guide/matrix-3x6.png" style="zoom: 50%;" >
 <img src="guide/matrix-4x6.png" style="zoom: 50%;" >
