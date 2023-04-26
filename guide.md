@@ -183,6 +183,8 @@
 <img src="guide/matrix-3x6.png" style="zoom: 50%;" >
 <img src="guide/matrix-4x6.png" style="zoom: 50%;" >
 
+### （一）單格電路板及矩陣
+
 - 按照矩陣走線圖邏輯焊接矩陣，這兩張圖已經包含TRRS座的走線方式，至於MCU腳位的使用後面會解釋說明。
 - 首先將單格電路板焊上貼片式T4開關二極管，照片這裡沒有將熱插拔座焊上去，可依照自己的需求選擇，沒有侷限。
 
@@ -209,6 +211,23 @@
 <img src="guide/15-1.jpg" style="zoom: 50%;" >
 <img src="guide/15-2.jpg" style="zoom: 50%;" >
 <img src="guide/15-3.jpg" style="zoom: 50%;" >
+<img src="guide/15-4.jpg" style="zoom: 50%;" >
+<img src="guide/15-5.jpg" style="zoom: 50%;" >
+<img src="guide/15-6.jpg" style="zoom: 50%;" >
+
+### （二）熱插拔排針公母及排線
+
+- 這是Pro Micro的針腳示意圖，這裡定義MCU晶片朝上為正面。
+
+<img src="guide/promicro.png" style="zoom: 100%;" >
+
+- 探索者1號使用的MCU為Atmega32U4晶片的Pro Micro，規格5V16M，左右各12pin。以3x6鍵盤來說，正面會使用到鍵盤會使用到左邊4、5、6、7、8、9作為Col0~Col5的針腳；右邊會用到15、14、16、10作為Row0~Row3。
+- TRRS座會用到左上方的RXI、右上方的GND及VCC，合計3個pin。這裡我是將MCU上方左右4個的pin都用母座固定，後續TRRS的線路會比較好接（照片沒有示意）。
+- 首先使用熱插拔母座焊到上面所說的位置，由於MCU是正面超下安裝，務必將母座倒置放在背面，從正面焊接固定。
+
+<img src="guide/16-1.jpg" style="zoom: 50%;" >
+<img src="guide/16-2.jpg" style="zoom: 50%;" >
+<img src="guide/16-3.jpg" style="zoom: 50%;" >
 
 
 ## QMK韌體修正
