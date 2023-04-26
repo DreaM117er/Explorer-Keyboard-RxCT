@@ -216,7 +216,7 @@
 <img src="guide/15-5.jpg" style="zoom: 50%;" >
 <img src="guide/15-6.jpg" style="zoom: 50%;" >
 
-### （二）熱插拔排針公母及排線
+### （二）熱插拔排針公母及排線製作
 
 - 這是Pro Micro的針腳示意圖，這裡定義MCU晶片朝上為正面。
 
