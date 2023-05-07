@@ -201,7 +201,18 @@
 
 ### （三）配線圖及原理
 
+- 探索者1號使用的是ATmega32U4的MCU，這裡我是使用有實體Bootloader按鈕的Pro Micro做安裝，可以直接省略用針腳短路Reset的Flash方式。
+- 這裡定義MCU帶晶片的那一面為正面、反之為背面，後續解說不會再提及。
+- Pro Micro的部分會使用到RX1、右邊的GND、VCC，用於控制TRRS的訊號傳輸；矩陣部分會使用D4, C6, D7, E6, B4, B5作為Column、F7, B1, B3, B2, B6作為Row。
+- Pro Micro針腳腳位示意圖：
+<img src="guide/3-1-promicro.png" style="zoom: 50%;" >
 
+- 完整矩陣走線圖務必記下來，後續佈線的時候會一直用到。
+- 探索者1號使用的Firmware為4x6+4的Keymap，全配列通用一個主控，目的為增大鍵盤的改裝自由度；原理為開關ON/OFF的基本道理，這裡不理解沒有關係，之後會在[操作說明書中](manual.md)做解說。
+
+- 3x6、4x6佈線圖：
+<img src="guide/3-2-matrix-3x6.png" style="zoom: 50%;" >
+<img src="guide/3-3-matrix-4x6.png" style="zoom: 50%;" >
 
 ### （四）單格電路板及排線製作
 
