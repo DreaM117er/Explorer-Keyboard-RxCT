@@ -1,5 +1,4 @@
-# 組裝說明（Building Guide） （WIP）
-
+# 組裝說明（Building Guide）
 ## 安全注意事項
 
 - 使用電烙鐵時注意環境通風。
@@ -80,156 +79,33 @@
 
 ## 組裝步驟
 
-- 3x5、3x6及4x5、4x6鍵盤配列安裝大同小異，這裡會以3x6+3鍵盤演示為主。
+- 3x5、3x6及4x5、4x6鍵盤配列安裝大同小異，這裡會以配列最大的4x6+4鍵盤演示為主。
 - 簡單的一個邏輯，跟外殼連接相關使用M3，跟定位板相關使用M2，請依據這個邏輯進行安裝。
 - 第一步先安裝熱壓螺母，電烙鐵使用定溫200度即可，溫度太高PLA外殼會融化。
 
 ### （一）熱壓螺母
 
-- 拇指區底板及連接器，使用M3螺母，連接器2個、底板2個：
-<img src="guide/1-1.jpg" style="zoom: 30%;" >
-<img src="guide/1-2.jpg" style="zoom: 30%;" >
-
-- 拇指AA、AB底板，M3、M2螺母各1個：
-<img src="guide/1-3.jpg" style="zoom: 30%;" >
-
-- 拇指定位板，使用M2螺母，單鍵2個：
-<img src="guide/2-1.jpg" style="zoom: 30%;" >
-<img src="guide/2-2.jpg" style="zoom: 30%;" >
-
-- TRRS主控座，M2螺母2個：
-<img src="guide/4-1.jpg" style="zoom: 30%;" >
-<img src="guide/4-2.jpg" style="zoom: 30%;" >
-
-- 斜角插件，M3螺母4個：
-<img src="guide/4-3.jpg" style="zoom: 30%;" >
-<img src="guide/4-4.jpg" style="zoom: 30%;" >
-
-- 直列定位板，一組4個，3x6配列單手需安裝6組:
-<img src="guide/6-1.jpg" style="zoom: 30%;" >
-<img src="guide/6-2.jpg" style="zoom: 30%;" >
-<img src="guide/6-3.jpg" style="zoom: 30%;" >
-
-- 單手外殼，M3螺母12個，1/4"螺母1個，位置如下：
-<img src="guide/7-1.jpg" style="zoom: 30%;" >
-<img src="guide/7-2.jpg" style="zoom: 30%;" >
-
-- 前方雲台插件（選配），1/4"螺母1個：
-<img src="guide/5-1.jpg" style="zoom: 30%;" >
-<img src="guide/5-2.jpg" style="zoom: 30%;" >
-
-- 電池倉（選配），M2螺母4個：
-<img src="guide/3-1.jpg" style="zoom: 30%;" >
-<img src="guide/3-2.jpg" style="zoom: 30%;" >
-
-### （二）外殼組裝
-
-- 熱壓螺母安裝完成後，進行外殼的基本安裝介紹。在正式安裝之前，先來辨識鍵盤左右邊的零件：
-- 辨識上框及下框的方法：下框中指區的部分只會有1個螺絲孔，上框會有2個。
-<img src="guide/8-1.jpeg" style="zoom: 50%;" >
-
-- 辨識左右邊基座的方法：完整弧形的區塊朝外。
-<img src="guide/8-2.png" style="zoom: 100%;" >
-
-- 將直列定位板及框架使用M2x5mm的薄頭螺絲固定，拓展框架（x1-main frame）亦同。
-<img src="guide/9-1.jpg" style="zoom: 30%;" >
-<img src="guide/9-2.jpg" style="zoom: 30%;" >
-<img src="guide/9-3.jpg" style="zoom: 30%;" >
-
-- 使用M3x6薄頭螺絲將拓展底板跟底殼接上。
-<img src="guide/10-1.jpg" style="zoom: 30%;" >
-<img src="guide/10-2.jpg" style="zoom: 30%;" >
-
-- 使用M2x5mm螺絲將主控座卡扣扣上，M3x6mm薄頭螺絲將主控座及斜角插件組合在一起，再跟底殼合併。
-<img src="guide/11-1.jpg" style="zoom: 30%;" >
-<img src="guide/11-2.jpg" style="zoom: 30%;" >
-<img src="guide/11-3.jpg" style="zoom: 30%;" >
-<img src="guide/11-4.jpg" style="zoom: 30%;" >
-<img src="guide/11-5.jpg" style="zoom: 30%;" >
-
-- 接著使用M2x8mm薄頭螺絲將定位板們跟底殼合併在一起。
-<img src="guide/11-6.jpg" style="zoom: 30%;" >
-<img src="guide/11-7.jpg" style="zoom: 30%;" >
-
-### （三）拇指區
-
-- 將拇指區的部件準備好，首先使用M3x6的螺絲將需要的按鍵底板連接在一起，這裡演示的是+3的按鍵，會使用上AB底板、BA底板、BB底板及連接器2組。
-<img src="guide/12-1.jpg" style="zoom: 30%;" >
-<img src="guide/12-2.jpg" style="zoom: 30%;" >
-
-- 只有拇指AA及AB底板可連接基座，務必選擇這2片底板其中之一進行安裝。
-<img src="guide/1-3.jpg" style="zoom: 30%;" >
-
-- 基座部分使用M3x8mm螺絲，可微調角度的部分使用M2x5mm螺絲，決定好角度之後再將整組基座用M3x6螺絲4個安裝在底殼上。
-<img src="guide/12-3.jpg" style="zoom: 30%;" >
-<img src="guide/12-4.jpg" style="zoom: 30%;" >
-<img src="guide/12-5.jpg" style="zoom: 30%;" >
-
-- 接著將拇指定位板使用M2x5mm螺絲鎖上，最外側及最內側的定位板可依據手感要求進行前後挪移，但這僅有拇指AA及BA底板可以做改裝。
-<img src="guide/12-6.jpg" style="zoom: 30%;" >
-<img src="guide/12-7.jpg" style="zoom: 30%;" >
-<img src="guide/12-8.jpg" style="zoom: 30%;" >
-
-- 最後將鍵盤主體安裝在雲台上就大功告成。
-<img src="guide/13-1.jpg" style="zoom: 30%;" >
-<img src="guide/13-2.jpg" style="zoom: 30%;" >
-<img src="guide/13-3.jpg" style="zoom: 30%;" >
-
-- 鍵盤外殼安裝完成後，請先將鍵軸及鍵帽預先安裝上鍵盤，找出有沒有不合需求的地方，有的話就進行修改，直到確定不會更動配列後，再進行矩陣建立及佈線。
-
-## 矩陣及佈線
-
-- 3x5、3x6及4x5、4x6矩陣走線圖：
-- 按照矩陣走線圖邏輯焊接矩陣，這兩張圖已經包含TRRS座的走線方式及排線的接法，MCU腳位的使用後面會解釋說明。
-
-<img src="guide/matrix-3x6.png" style="zoom: 50%;" >
-<img src="guide/matrix-4x6.png" style="zoom: 50%;" >
-
-### （一）單格電路板及矩陣
-
-- 首先將單格電路板焊上貼片式T4開關二極管，照片這裡沒有將熱插拔座焊上去，可依照自己的需求選擇，沒有侷限。
-
-<img src="guide/14-1.jpg" style="zoom: 50%;" >
-
-- 將鍵軸放在定位板上後，單格電路板接著對著針腳放好，用烙鐵先將針腳的一邊先固定。
-
-<img src="guide/14-2.jpg" style="zoom: 50%;" >
-<img src="guide/14-3.jpg" style="zoom: 50%;" >
-<img src="guide/14-4.jpg" style="zoom: 50%;" >
-
-- 接著單手壓著電路板，將已經固定的單邊焊錫再融化一次把電路板固定好後，再把另一邊的針腳焊上（沒有針腳全部焊上的照片）。
-
-<img src="guide/14-5.jpg" style="zoom: 50%;" >
-
-- 拓展板由於將鍵軸安裝上定位板後會晃動，因此先將前後端的鍵帽裝上後再上焊錫固定；單鍵拇指區也是如此動作。
-
-<img src="guide/14-6.jpg" style="zoom: 50%;" >
-<img src="guide/14-7.jpg" style="zoom: 50%;" >
-<img src="guide/14-8.jpg" style="zoom: 50%;" >
-
-- 最後將電路板上的Row、Col用電線按矩陣圖接上，這裡建議先將主配列焊接好後再焊拓展、拇指區的部分還要計算底板跟底板之間的寬度決定Row使用的電線（如果不在意的話就用長一點的電線連接）。
-
-<img src="guide/15-1.jpg" style="zoom: 50%;" >
-<img src="guide/15-2.jpg" style="zoom: 50%;" >
-<img src="guide/15-3.jpg" style="zoom: 50%;" >
-<img src="guide/15-4.jpg" style="zoom: 50%;" >
-<img src="guide/15-5.jpg" style="zoom: 50%;" >
-<img src="guide/15-6.jpg" style="zoom: 50%;" >
-
-### （二）熱插拔排針公母及排線製作
-
-- 這是Pro Micro的針腳示意圖，這裡定義MCU晶片朝上為正面。
-
-<img src="guide/promicro.png" style="zoom: 100%;" >
-
-- 探索者1號使用的MCU為Atmega32U4晶片的Pro Micro，規格5V16M，左右各12pin。以3x6鍵盤來說，正面會使用到左邊4、5、6、7、8、9作為Col0～Col5的針腳；右邊會用到15、14、16、10作為Row0～Row3。
-- 4x6鍵盤則會用到左邊4、5、6、7、8、9跟右邊A0、15、14、16、10。
-- TRRS座會用到左上方的RXI、右上方的GND及VCC，合計3個pin。這裡我是將MCU上方左右4個的pin都用母座固定，後續TRRS的線路會比較好接（照片沒有示意）。
-- 首先使用熱插拔母座固定到上述所說的位置上，由於MCU是正面朝下、背面卡在主控座上，務必將熱插拔母座倒置放在背面，從正面焊接固定。
-
-<img src="guide/16-1.jpg" style="zoom: 50%;" >
-<img src="guide/16-2.jpg" style="zoom: 50%;" >
-<img src="guide/16-3.jpg" style="zoom: 50%;" >
+- 探索者1號會使用到M2x3x3.2mm、M3x3x4.2mm及英制1/4"高6.35mm三種規格之熱壓螺母，每個部件都會按照下圖的顏色做標示，方便安裝。
 
 
-## QMK韌體修正
+### （二）外殼安裝順序
+
+
+
+### （三）配線圖及原理
+
+
+
+### （四）單格電路板及排線製作
+
+
+
+### （五）單格電路板矩陣建立
+
+
+
+### （六）最後組裝及鍵盤韌體
+
+
+
+
