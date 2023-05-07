@@ -86,7 +86,38 @@
 ### （一）熱壓螺母
 
 - 探索者1號會使用到M2x3x3.2mm、M3x3x4.2mm及英制1/4"高6.35mm三種規格之熱壓螺母，每個部件都會按照下圖的顏色做標示，方便安裝。
+<img src="guide/1-1.jpg" style="zoom: 50%;" >
 
+- Column-3x1、4x1：
+<img src="guide/1-2.png" style="zoom: 50%;" >
+
+- x1-thumb plate：
+<img src="guide/1-3.png" style="zoom: 50%;" >
+
+- thumb AA plate、thumb AB plate
+<img src="guide/1-4.png" style="zoom: 50%;" >
+<img src="guide/1-5.png" style="zoom: 50%;" >
+
+- thumb BX plate：
+<img src="guide/1-6.png" style="zoom: 50%;" >
+
+- linker：
+<img src="guide/1-7.png" style="zoom: 50%;" >
+
+- 4x6 bottom case，3x6會少用1個M3螺母，安裝方式大同小異：
+<img src="guide/1-8.png" style="zoom: 50%;" >
+
+- box：
+<img src="guide/1-9.png" style="zoom: 50%;" >
+
+- trrs mcu base、mcu base，安裝方式一樣：
+<img src="guide/1-10.png" style="zoom: 50%;" >
+
+- mcu base angle：
+<img src="guide/1-11.png" style="zoom: 50%;" >
+
+- front basepart：
+<img src="guide/1-12.png" style="zoom: 50%;" >
 
 ### （二）外殼安裝順序
 
