@@ -203,7 +203,7 @@
 
 - 探索者1號使用的是ATmega32U4的MCU，這裡我是使用有實體Bootloader按鈕的Pro Micro做安裝，可以直接省略用針腳短路Reset的Flash方式。
 - 這裡定義MCU帶晶片的那一面為正面、反之為背面，後續解說不會再提及。
-- Pro Micro的部分會使用到RX1、右邊的GND、VCC，用於控制TRRS的訊號傳輸；矩陣部分會使用D4, C6, D7, E6, B4, B5作為Column、F7, B1, B3, B2, B6作為Row。
+- Pro Micro的部分會使用到RX1、右邊的GND、VCC，用於控制TRRS的訊號傳輸；矩陣部分會使用D4、C6、D7、E6、B4、B5作為Column；F7、B1、B3、B2、B6作為Row。
 - Pro Micro針腳腳位示意圖：
 <img src="guide/3-1-promicro.png" style="zoom: 50%;" >
 
