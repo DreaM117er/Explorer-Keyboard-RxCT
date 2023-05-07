@@ -98,7 +98,7 @@
 <img src="guide/1-4.jpg" style="zoom: 50%;" >
 <img src="guide/1-5.jpg" style="zoom: 50%;" >
 
-- thumb BA plate、、thumb BB plate：
+- thumb BA plate、thumb BB plate：
 <img src="guide/1-6.jpg" style="zoom: 50%;" >
 
 - linker：
