@@ -208,7 +208,7 @@
 <img src="guide/3-1-promicro.png" style="zoom: 50%;" >
 
 - 完整矩陣走線圖務必記下來，後續佈線的時候會一直用到。
-- 探索者1號使用的Firmware為4x6+4的Keymap，全配列通用一個主控，目的為增大鍵盤的改裝自由度；原理為開關ON/OFF的基本道理，這裡不理解沒有關係，之後會在[操作說明書中](manual.md)做解說。
+- 探索者1號使用的Firmware為4x6+4的Keymap，全配列通用一個韌體控制（Firmware），目的為增大鍵盤的改裝自由度；原理為開關ON/OFF的基本道理，這裡不理解沒有關係，之後會在[操作說明書中](manual.md)做解說。
 
 - 3x6、4x6佈線圖：
 <img src="guide/3-2-matrix-3x6.png" style="zoom: 50%;" >
