@@ -124,10 +124,80 @@
 - 探索者1號由於是模組化設計，大體設計出來的部件想當龐大外，如果不瞭解如何安裝外殼，後續的安裝步驟會很困難，務必將各個部件的安裝方式及步驟記下。
 - 首先將主控座的部分用螺絲固定上：
 <img src="guide/2-1.jpg" style="zoom: 50%;" >
-
-- 再將斜角插件固定在主控座上：
 <img src="guide/2-2.jpg" style="zoom: 50%;" >
 
+- 再將斜角插件固定在主控座上：
+<img src="guide/2-3.jpg" style="zoom: 50%;" >
+
+- 主控座的部分會在製作排線的時候再繼續做介紹，先知道要如何安裝卡扣就好。
+- 上框及下框的部分具有防呆機制，上框中指區會有2個孔、下框只會有1個孔，這點務必留意。
+<img src="guide/2-5.jpg" style="zoom: 50%;" >
+
+- 首先用M2x5的螺絲將框架及Column都固定上去，個人建議從最外側往內安裝會比較好固定。
+<img src="guide/2-6.jpg" style="zoom: 50%;" >
+<img src="guide/2-7.jpg" style="zoom: 50%;" >
+<img src="guide/2-8.jpg" style="zoom: 50%;" >
+<img src="guide/2-9.jpg" style="zoom: 50%;" >
+<img src="guide/2-10.jpg" style="zoom: 50%;" >
+
+- 如果要安裝拓展的話，務必留意x1-main frame的螺絲安裝方向：
+<img src="guide/2-11.jpg" style="zoom: 50%;" >
+
+- 拇指區基座的部分由M3x8mm螺絲當作軸心、M2x5螺絲做角度的固定，只有thumb BA plate、thumb BB plate可以連結基座，這裡再強調一次：
+<img src="guide/2-12.jpg" style="zoom: 50%;" >
+
+- 基座的部分可以調整的角度為0～90度合計7個檔位，其中75度及90度檔需要使用M2x5mm規格之扁頭螺絲，基本不建議安裝。
+<img src="guide/2-13.jpg" style="zoom: 50%;" >
+
+- 拇指按鍵底板的部分特別留意安裝的角度：
+<img src="guide/2-14.jpg" style="zoom: 50%;" >
+<img src="guide/2-15.jpg" style="zoom: 50%;" >
+<img src="guide/2-16.jpg" style="zoom: 50%;" >
+<img src="guide/2-17.jpg" style="zoom: 50%;" >
+
+- 接著再安裝背面：
+<img src="guide/2-18.jpg" style="zoom: 50%;" >
+
+- 將拇指按鍵、基座組合在一起，選定好喜歡的角度後進行固定：
+<img src="guide/2-19.jpg" style="zoom: 50%;" >
+<img src="guide/2-20.jpg" style="zoom: 50%;" >
+<img src="guide/2-21.jpg" style="zoom: 50%;" >
+<img src="guide/2-22.jpg" style="zoom: 50%;" >
+<img src="guide/2-23.jpg" style="zoom: 50%;" >
+<img src="guide/2-24.jpg" style="zoom: 50%;" >
+
+- 最後將拇指定位板安裝上去：
+<img src="guide/2-25.jpg" style="zoom: 50%;" >
+<img src="guide/2-26.jpg" style="zoom: 50%;" >
+
+-拇指定位板根據型號A的長板可進行定位板前後6mm的微調，根據自己的喜好安裝即可：
+<img src="guide/2-27.jpg" style="zoom: 50%;" >
+<img src="guide/2-28.jpg" style="zoom: 50%;" >
+
+- 拇指區安裝完畢：
+<img src="guide/2-29.jpg" style="zoom: 50%;" >
+
+- 底殼底部雲台座的部分先使用防滑腳貼貼在雲台接觸面上，由於PLA材質問題只有單雲台有防滑機制的話會無法穩固鍵盤本體。
+<img src="guide/2-30.jpg" style="zoom: 50%;" >
+
+- 然後將4x5定位板、拇指區及底殼合併。
+<img src="guide/2-31.jpg" style="zoom: 50%;" >
+<img src="guide/2-32.jpg" style="zoom: 50%;" >
+<img src="guide/2-33.jpg" style="zoom: 50%;" >
+
+- 最後將鍵盤本體安裝在雲台上就完成安裝。
+<img src="guide/2-34.jpg" style="zoom: 50%;" >
+<img src="guide/2-35.jpg" style="zoom: 50%;" >
+
+- 完成外殼後務必先安裝鍵軸及鍵帽測試是不是適合自己，不適合的話再做微調，直到滿意為止。
+<img src="guide/2-36.jpg" style="zoom: 50%;" >
+<img src="guide/2-37.jpg" style="zoom: 50%;" >
+<img src="guide/2-38.jpg" style="zoom: 50%;" >
+<img src="guide/2-39.jpg" style="zoom: 50%;" >
+
+- 如果有需要安裝拓展的話，安裝方式如下：
+<img src="guide/2-40.jpg" style="zoom: 50%;" >
+<img src="guide/2-41.jpg" style="zoom: 50%;" >
 
 ### （三）配線圖及原理
 
