@@ -170,7 +170,7 @@
 <img src="guide/2-25.jpg" style="zoom: 50%;" >
 <img src="guide/2-26.jpg" style="zoom: 50%;" >
 
--拇指定位板根據型號A的長板可進行定位板前後6mm微調，根據自己喜好安裝即可：
+- 拇指定位板根據型號A的長板可進行定位板前後6mm微調，根據自己喜好安裝即可：
 <img src="guide/2-27.jpg" style="zoom: 50%;" >
 <img src="guide/2-28.jpg" style="zoom: 50%;" >
 
