@@ -143,13 +143,13 @@
 - 如果要安裝拓展的話，務必留意x1-main frame的螺絲安裝方向：
 <img src="guide/2-11.jpg" style="zoom: 50%;" >
 
-- 拇指區基座的部分由M3x8mm螺絲當作軸心、M2x5螺絲做角度的固定，只有thumb BA plate、thumb BB plate可以連結基座，這裡再強調一次：
+- 拇指區基座部分由M3x8mm螺絲當作軸心、M2x5螺絲做角度固定，只有thumb BA plate、thumb BB plate可以連結基座，這裡再強調一次：
 <img src="guide/2-12.jpg" style="zoom: 50%;" >
 
-- 基座的部分可以調整的角度為0～90度合計7個檔位，其中75度及90度檔需要使用M2x5mm規格之扁頭螺絲，基本不建議安裝。
+- 基座部分可以調整的角度為0～90度合計7個檔位，其中75度及90度檔需要使用M2x5mm規格之扁頭螺絲，基本不建議安裝。
 <img src="guide/2-13.jpg" style="zoom: 50%;" >
 
-- 拇指按鍵底板的部分特別留意安裝的角度：
+- 拇指按鍵底板的部分特別留意安裝角度：
 <img src="guide/2-14.jpg" style="zoom: 50%;" >
 <img src="guide/2-15.jpg" style="zoom: 50%;" >
 <img src="guide/2-16.jpg" style="zoom: 50%;" >
@@ -170,14 +170,14 @@
 <img src="guide/2-25.jpg" style="zoom: 50%;" >
 <img src="guide/2-26.jpg" style="zoom: 50%;" >
 
--拇指定位板根據型號A的長板可進行定位板前後6mm的微調，根據自己的喜好安裝即可：
+-拇指定位板根據型號A的長板可進行定位板前後6mm微調，根據自己喜好安裝即可：
 <img src="guide/2-27.jpg" style="zoom: 50%;" >
 <img src="guide/2-28.jpg" style="zoom: 50%;" >
 
 - 拇指區安裝完畢：
 <img src="guide/2-29.jpg" style="zoom: 50%;" >
 
-- 底殼底部雲台座的部分先使用防滑腳貼貼在雲台接觸面上，由於PLA材質問題只有單雲台有防滑機制的話會無法穩固鍵盤本體。
+- 底殼底部雲台座部分先使用防滑腳貼貼在雲台接觸面上，由於PLA材質問題只有單雲台有防滑機制的話會無法穩固鍵盤本體。
 <img src="guide/2-30.jpg" style="zoom: 50%;" >
 
 - 然後將4x5定位板、拇指區及底殼合併。
@@ -195,7 +195,7 @@
 <img src="guide/2-38.jpg" style="zoom: 50%;" >
 <img src="guide/2-39.jpg" style="zoom: 50%;" >
 
-- 如果有需要安裝拓展的話，安裝方式如下：
+- 如果有需要安裝拓展，安裝方式如下：
 <img src="guide/2-40.jpg" style="zoom: 50%;" >
 <img src="guide/2-41.jpg" style="zoom: 50%;" >
 
