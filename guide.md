@@ -221,9 +221,98 @@
 
 ### （四）單格電路板及排線製作
 
+- Dactyl Manuform系列鍵盤最主要使用的是電線連接軸體針腳彼此來建立鍵盤矩陣，但工藝相對來說比較繁瑣及麻煩，因此在設計探索者1號的時候就是以[單格電路板](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=)開發設計，這裡特別感謝[James Sa](https://github.com/jamessa)為了我而設計這塊單格電路板，可以在焊劑、熱插拔這兩個選項中做選擇。
+- 這裡列出幾種可以作為替代的單格電路板供大家參考：[Amoeba Single PCBs](https://github.com/mtl/keyboard-pcbs)、[MxLEDBit](https://github.com/swanmatch/MxLEDBitPCB)、[PCBabies](https://boardsource.xyz/store/5ecb867c86879c9a0c22dbb6)。
+- 在正式焊接之前要特別介紹常用的焊接工具————助焊劑、或是稱為錫膏；探索者1號除了壓製熱壓螺母不會動到錫膏之外，其他地方用量相當大，而且好用。
+<img src="guide/4-1.jpg" style="zoom: 50%;" >
+
+- 首先準備好相應數量的單格電路板，4x6+4會用到56片；如果使用Amoeba或是想直接焊接的話，可以跳過此步驟。
+<img src="guide/4-2.jpg" style="zoom: 50%;" >
+
+- 在貼片二極體、熱插拔座的焊點刷上錫膏後，將貼片二極體依據方向焊接上去、熱插拔座單邊焊點先上一點錫。
+<img src="guide/4-3.jpg" style="zoom: 50%;" >
+
+- 接著將熱插拔座固定上去（先上錫的一邊先固定再用另一邊）。
+<img src="guide/4-4.jpg" style="zoom: 50%;" >
+<img src="guide/4-5.jpg" style="zoom: 50%;" >
+<img src="guide/4-6.jpg" style="zoom: 50%;" >
+<img src="guide/4-7.jpg" style="zoom: 50%;" >
+
+- 將56片都焊接好後，準備來學習如何焊接排線。
+<img src="guide/4-8.jpg" style="zoom: 50%;" >
+
+
+
+
+
 
 
 ### （五）單格電路板矩陣建立
+
+- 矩陣焊接務必搭配[大步驟（三）](https://github.com/DreaM117er/Explorer-Keyboard-RxCT/blob/main/guide.md#%E4%B8%89%E9%85%8D%E7%B7%9A%E5%9C%96%E5%8F%8A%E5%8E%9F%E7%90%86)裡提到的佈線圖，會比較好理解。
+- 將單格電路板、軸體、定位板準備好。
+<img src="guide/4-9.jpg" style="zoom: 50%;" >
+<img src="guide/5-1.jpg" style="zoom: 50%;" >
+
+- 將鍵軸事先安裝到定位板上，這裡採用的是下燈位。
+<img src="guide/5-2.jpg" style="zoom: 50%;" >
+<img src="guide/5-3.jpg" style="zoom: 50%;" >
+<img src="guide/5-4.jpg" style="zoom: 50%;" >
+<img src="guide/5-5.jpg" style="zoom: 50%;" >
+
+- 再將單格電路板固定到鍵軸針腳處。
+<img src="guide/5-6.jpg" style="zoom: 50%;" >
+<img src="guide/5-7.jpg" style="zoom: 50%;" >
+
+- 將準備好的鍵帽安裝在拓展及拇指按鍵上，目的是不讓它們在焊接時晃動
+<img src="guide/5-8.jpg" style="zoom: 50%;" >
+<img src="guide/5-8-1.jpg" style="zoom: 50%;" >
+
+- 接著準備一定長度的白色矽膠電線，這裡用於連接Column。
+- 對好焊點至焊點之間的距離後，將它們用小剪刀剪下來。
+<img src="guide/5-9.jpg" style="zoom: 50%;" >
+<img src="guide/5-10.jpg" style="zoom: 50%;" >
+
+- 使用剝線鉗將電線的兩端的金屬部分露出。
+<img src="guide/5-11.jpg" style="zoom: 50%;" >
+
+- 然後用焊錫把焊點先填上，這樣比較方便做電線固定。
+<img src="guide/5-12.jpg" style="zoom: 50%;" >
+
+- 電線兩端沾上一點錫膏後，用鑷子做輔助，烙鐵加熱其中一邊焊點使其融化後，將電線一端接上去。
+<img src="guide/5-13.jpg" style="zoom: 50%;" >
+
+- 接著固定另一邊。
+<img src="guide/5-14.jpg" style="zoom: 50%;" >
+
+- 首先是拓展部分的Column完成。
+<img src="guide/5-15.jpg" style="zoom: 50%;" >
+
+- 接著是右手鍵盤。
+<img src="guide/5-16.jpg" style="zoom: 50%;" >
+
+- 雙手的部分。
+<img src="guide/5-17.jpg" style="zoom: 50%;" >
+
+- Column的部分完工之後，準備紅色電線，用於Row的連接。
+<img src="guide/5-18.jpg" style="zoom: 50%;" >
+
+- Row的步驟跟Column相同，只是電線長度會稍稍不一樣。
+<img src="guide/5-19.jpg" style="zoom: 50%;" >
+
+- 首先完成單邊Row。
+<img src="guide/5-20.jpg" style="zoom: 50%;" >
+
+- 再來是雙手。
+<img src="guide/5-21.jpg" style="zoom: 50%;" >
+
+
+
+
+
+
+
+
 
 
 
