@@ -185,7 +185,7 @@
 <img src="guide/2-32.jpg" style="zoom: 50%;" >
 <img src="guide/2-33.jpg" style="zoom: 50%;" >
 
-- 最後將鍵盤本體安裝在雲台上就完成安裝。
+- 最後將鍵盤本體安裝在雲台上就完成了。
 <img src="guide/2-34.jpg" style="zoom: 50%;" >
 <img src="guide/2-35.jpg" style="zoom: 50%;" >
 
