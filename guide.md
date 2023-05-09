@@ -130,6 +130,8 @@
 <img src="guide/2-3.jpg" style="zoom: 50%;" >
 
 - 主控座的部分會在製作排線的時候再繼續做介紹，先知道要如何安裝卡扣就好。
+<img src="guide/2-4.jpg" style="zoom: 50%;" >
+
 - 上框及下框的部分具有防呆機制，上框中指區會有2個孔、下框只會有1個孔，這點務必留意。
 <img src="guide/2-5.jpg" style="zoom: 50%;" >
 
@@ -224,45 +226,45 @@
 - Dactyl Manuform系列鍵盤最主要使用的是電線連接軸體針腳彼此來建立鍵盤矩陣，但工藝相對來說比較繁瑣及麻煩，因此在設計探索者1號的時候就是以[單格電路板](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=)開發設計，這裡特別感謝[James Sa](https://github.com/jamessa)為了我而設計這塊單格電路板，可以在焊劑、熱插拔這兩個選項中做選擇。
 - 這裡列出幾種可以作為替代的單格電路板供大家參考：[Amoeba Single PCBs](https://github.com/mtl/keyboard-pcbs)、[MxLEDBit](https://github.com/swanmatch/MxLEDBitPCB)、[PCBabies](https://boardsource.xyz/store/5ecb867c86879c9a0c22dbb6)。
 - 在正式焊接之前要特別介紹常用的焊接工具————助焊劑、或是稱為錫膏；探索者1號除了壓製熱壓螺母不會動到錫膏之外，其他地方用量相當大，而且好用。
-<img src="guide/4-1.jpg" style="zoom: 50%;" >
+<img src="guide/4-0.jpg" style="zoom: 50%;" >
 
 - 首先準備好相應數量的單格電路板，4x6+4會用到56片。
-<img src="guide/4-2.jpg" style="zoom: 50%;" >
+<img src="guide/4-1.jpg" style="zoom: 50%;" >
 
 - 簡單說明下單格電路板上焊點及走線。
-<img src="guide/4-2-1.jpg" style="zoom: 50%;" >
+<img src="guide/4-2.jpg" style="zoom: 50%;" >
 
 - 首先我們需要焊接IN1418貼片二級管到單格電路板上，貼片式二極管真的太小，我的手機無法使用微距拍攝，這邊借用一下網路上的[商品圖](https://www.alibaba.com/product-detail/Switching-diode-1N4148WT-1N4148-T4-SOD123_60811969627.html)。
 - 二極體有分正負極之分，其中有直線的那端為負極，這裡不知道什麼是負極沒有關係，就根據有線的那端作為方向性安裝。
-<img src="guide/4-2-2.jpg" style="zoom: 50%;" >
-
-- 依據單格電路板上的方向做安裝。
-<img src="guide/4-2-3.jpg" style="zoom: 50%;" >
-
-- 先在二極體焊點其中一邊點上錫。
-
-
-- 接著使用鑷子對好方向後，簡單溶解焊錫，將二極體的一邊接上去。
-
-
-- 固定好單邊後，用鑷子輕輕壓住二極體，再用烙鐵點一下錫，完整貼平二極體。
-
-
-- 最後再固定另一邊。
-
-
-
-- 接著在熱插拔座單邊焊點先上一點錫。
 <img src="guide/4-3.jpg" style="zoom: 50%;" >
 
-- 接著將熱插拔座固定上去（先上錫的一邊先固定再用另一邊）。
+- 依據單格電路板上的方向做安裝。
 <img src="guide/4-4.jpg" style="zoom: 50%;" >
+
+- 先在二極體焊點其中一邊點上錫。
 <img src="guide/4-5.jpg" style="zoom: 50%;" >
+
+- 接著使用鑷子對好方向後，簡單溶解焊錫，將二極體的一邊接上去。
 <img src="guide/4-6.jpg" style="zoom: 50%;" >
+
+- 固定好單邊後，用鑷子輕輕壓住二極體，再用烙鐵點一下錫，完整貼平二極體。
 <img src="guide/4-7.jpg" style="zoom: 50%;" >
 
-- 將56片都焊接好後，準備來學習如何焊接排線。
+- 最後再固定另一邊就完成了。
 <img src="guide/4-8.jpg" style="zoom: 50%;" >
+<img src="guide/4-9.jpg" style="zoom: 50%;" >
+
+- 接著在熱插拔座單邊焊點先上一點錫。
+<img src="guide/4-10.jpg" style="zoom: 50%;" >
+
+- 接著將熱插拔座固定上去（先上錫的一邊先固定再用另一邊）。
+<img src="guide/4-11.jpg" style="zoom: 50%;" >
+<img src="guide/4-12.jpg" style="zoom: 50%;" >
+<img src="guide/4-13.jpg" style="zoom: 50%;" >
+<img src="guide/4-14.jpg" style="zoom: 50%;" >
+
+- 將56片都焊接好後，準備來學習如何焊接排線。
+<img src="guide/4-15.jpg" style="zoom: 50%;" >
 
 
 
@@ -274,7 +276,7 @@
 
 - 矩陣焊接務必搭配[大步驟（三）](https://github.com/DreaM117er/Explorer-Keyboard-RxCT/blob/main/guide.md#%E4%B8%89%E9%85%8D%E7%B7%9A%E5%9C%96%E5%8F%8A%E5%8E%9F%E7%90%86)裡提到的佈線圖，會比較好理解。
 - 將單格電路板、軸體、定位板準備好。
-<img src="guide/4-9.jpg" style="zoom: 50%;" >
+<img src="guide/5-0.jpg" style="zoom: 50%;" >
 <img src="guide/5-1.jpg" style="zoom: 50%;" >
 
 - 將鍵軸事先安裝到定位板上，這裡採用的是下燈位。
