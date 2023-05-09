@@ -355,7 +355,7 @@
 <img src="guide/6-5.png" style="zoom: 50%;" >
 
 - 在組裝說明第三點有提到：全配列使用同一個韌體，這樣的好處是自由度增大，會在操作說明提及。
-- 首先將韌體下載下來準備好，打開QMK toolbox。
+- 首先將韌體[下載](https://github.com/DreaM117er/Explorer-Keyboard-RxCT/releases)下來準備好，打開QMK toolbox。
 
 
 - Local file的位置選定explorerkb_rxct_vial.hex，接著將Auto-Flash勾選起來。
