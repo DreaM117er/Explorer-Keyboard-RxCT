@@ -363,7 +363,7 @@
 - Local file的位置選定explorerkb_rxct_vial.hex，接著將Auto-Flash勾選起來。
 
 
-- 將2片主控準備好，單片接上電腦後讓電腦辨識。
+- 將2片主控準備好，單片接上電腦後讓電腦辨識，記住兩片MCU都要燒錄。
 
 
 - 接著按下Bootloader的按鈕將韌體燒錄進Pro Micro裡面。
