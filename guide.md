@@ -345,5 +345,48 @@
 
 ### （六）鍵盤韌體及最後組裝
 
+- 由於作者我本人不是熟悉程式設計的工程師，因此很多東西需要花時間研究... 不過還好，2023.05.06晚上8點左右的時間，支援VIAL改鍵的探索者1號韌體成功編譯出來了，配列如下：
+<img src="guide/6-1.png" style="zoom: 50%;" >
+
+- 預設鍵位第一層～第四層：
+<img src="guide/6-2.png" style="zoom: 50%;" >
+<img src="guide/6-3.png" style="zoom: 50%;" >
+<img src="guide/6-4.png" style="zoom: 50%;" >
+<img src="guide/6-5.png" style="zoom: 50%;" >
+
+- 在組裝說明第三點有提到：全配列使用同一個韌體，這樣的好處是自由度增大，會在操作說明提及。
+- 首先將韌體下載下來準備好，打開QMK toolbox。
+
+
+- Local file的位置選定explorerkb_rxct_vial.hex，接著將Auto-Flash勾選起來。
+
+
+- 將2片主控準備好，單片接上電腦後讓電腦辨識。
+
+
+- 接著按下Bootloader的按鈕將韌體燒錄進Pro Micro裡面。
+
+
+- 這時的Pro Micro會亮藍色及綠色的燈光。
+
+
+- 燒錄結束後，右下角會跳出"我們正在Explorer Keyboard RxCT"的視窗。
+<img src="guide/6-11.png" style="zoom: 50%;" >
+
+- 最後點開VIAL查看是不是已經辨識到鍵盤。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
