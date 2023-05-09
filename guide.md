@@ -370,7 +370,7 @@
 - 這時的Pro Micro會亮藍色及綠色的燈光。
 
 
-- 燒錄結束後，右下角會跳出"我們正在Explorer Keyboard RxCT"的視窗。
+- 燒錄結束後，右下角會跳出"我們正在設定Explorer Keyboard RxCT"的視窗。
 <img src="guide/6-11.png" style="zoom: 50%;" >
 
 - 最後點開VIAL查看是不是已經辨識到鍵盤。
