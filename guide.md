@@ -185,8 +185,6 @@
 - 拇指區安裝完畢：
 <img src="guide/2-29.jpg" style="zoom: 50%;" >
 
-#### C、底殼部分
-
 - 底殼底部雲台座部分先使用防滑腳貼貼在雲台接觸面上，由於PLA材質問題只有單雲台有防滑機制的話會無法穩固鍵盤本體。
 <img src="guide/2-30.jpg" style="zoom: 50%;" >
 
@@ -372,23 +370,24 @@
 <img src="guide/6-7.png" style="zoom: 50%;" >
 
 - 將2片Pro Micro（主控、MCU）準備好，單片接上電腦後讓電腦辨識，此時會亮橘紅色燈光。
-
+<img src="guide/6-8.jpg" style="zoom: 50%;" >
 
 - 接著按下Bootloader的按鈕將韌體燒錄進Pro Micro裡面。
-
+<img src="guide/6-9.jpg" style="zoom: 50%;" >
 
 - 這時的Pro Micro會亮藍色及綠色的燈光。
-
+<img src="guide/6-10.jpg" style="zoom: 50%;" >
 
 - 燒錄結束後，右下角會跳出"我們正在設定Explorer Keyboard RxCT"的視窗。
 <img src="guide/6-11.png" style="zoom: 50%;" >
+<img src="guide/6-12.png" style="zoom: 50%;" >
 
 - 最後點開VIAL查看是不是已經辨識到鍵盤。
-
+<img src="guide/6-13.png" style="zoom: 50%;" >
 
 - 特別留意兩片Pro Micro都要燒錄韌體，且不要使用VIAL事先改按鍵，不然實際上機時左右邊鍵盤不會相互辨識。
 
-#### B、最後組裝
+#### B、建立主控座
 
 
 
@@ -398,6 +397,18 @@
 
 
 
-#### C、鍵盤測試
+
+
+
+#### C、矩陣排線建立
+
+
+
+
+
+
+
+
+#### D、鍵盤測試
 
 
