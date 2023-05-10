@@ -349,7 +349,7 @@
 
 
 
-### （六）鍵盤韌體及最後組裝
+### （六）鍵盤韌體及主控座
 
 #### A、燒錄鍵盤韌體
 
@@ -416,6 +416,8 @@
 <img src="guide/6-27.jpg" style="zoom: 50%;" >
 <img src="guide/6-28.jpg" style="zoom: 50%;" >
 <img src="guide/6-29.jpg" style="zoom: 50%;" >
+
+#### C、連接TRRS座
 
 - 接著準備排針公頭，將2組3pin切下來。
 <img src="guide/6-30.jpg" style="zoom: 50%;" >
@@ -494,6 +496,7 @@
 <img src="guide/6-65.jpg" style="zoom: 50%;" >
 <img src="guide/6-66.jpg" style="zoom: 50%;" >
 
+#### D、主控連接底殼
 
 
 
@@ -504,17 +507,16 @@
 
 
 
-
-
-#### C、矩陣排線建立
-
+### 七、矩陣排線建立
 
 
 
 
+### 八、最後組裝
 
 
 
-#### D、鍵盤測試
+
+### D、鍵盤測試
 
 
