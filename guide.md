@@ -122,6 +122,10 @@
 ### （二）外殼安裝順序
 
 - 探索者1號由於是模組化設計，大體設計出來的部件數量相當龐大外，如果不瞭解如何安裝外殼，後續的安裝步驟會很困難，務必將各個部件的安裝方式及步驟記下。
+
+#### A、外殼部分
+
+
 - 首先將主控座的部分用螺絲固定上：
 <img src="guide/2-1.jpg" style="zoom: 50%;" >
 <img src="guide/2-2.jpg" style="zoom: 50%;" >
@@ -144,6 +148,8 @@
 
 - 如果要安裝拓展的話，務必留意x1-main frame的螺絲安裝方向：
 <img src="guide/2-11.jpg" style="zoom: 50%;" >
+
+#### B、拇指區
 
 - 拇指區基座部分由M3x8mm螺絲當作軸心、M2x5螺絲做角度固定，只有thumb BA plate、thumb BB plate可以連結基座，這裡再強調一次：
 <img src="guide/2-12.jpg" style="zoom: 50%;" >
@@ -204,7 +210,7 @@
 
 ### （三）配線圖及原理
 
-- 探索者1號使用的是ATmega32U4的MCU，這裡我是使用有實體Bootloader按鈕的Pro Micro做安裝，可以直接省略用針腳短路Reset的Flash方式。
+- 探索者1號使用的是ATmega32U4的MCU，這裡我是使用有實體Bootloader按鈕的Pro Micro做安裝，可以直接省略用針腳短路Reset的燒錄方式。
 <img src="guide/3-3.jpg" style="zoom: 50%;" >
 
 - 這裡定義MCU帶晶片的那一面為正面、反之為背面，後續解說不會再提及。
@@ -223,7 +229,7 @@
 
 ### （四）單格電路板及排線製作
 
-- Dactyl Manuform系列鍵盤最主要使用的是電線連接軸體針腳彼此來建立鍵盤矩陣，但工藝相對來說比較繁瑣及麻煩，因此在設計探索者1號的時候就是以[單格電路板](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=)開發設計，這裡特別感謝[James Sa](https://github.com/jamessa)為了我而設計這塊單格電路板，可以在焊劑、熱插拔這兩個選項中做選擇。
+- Dactyl Manuform系列鍵盤最主要使用的是電線連接軸體針腳彼此來建立鍵盤矩陣，但工藝相對來說比較繁瑣及麻煩，因此在設計探索者1號的時候就是以[單格電路板](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=)開發設計，這裡特別感謝[James Sa](https://github.com/jamessa)為了我而設計這塊單格電路板，可以在焊接、熱插拔這兩個選項中做選擇。
 - 這裡列出幾種可以作為替代的單格電路板供大家參考：[Amoeba Single PCBs](https://github.com/mtl/keyboard-pcbs)、[MxLEDBit](https://github.com/swanmatch/MxLEDBitPCB)、[PCBabies](https://boardsource.xyz/store/5ecb867c86879c9a0c22dbb6)。
 - 在正式焊接之前要特別介紹常用的焊接工具————助焊劑、或是稱為錫膏；探索者1號除了壓製熱壓螺母不會動到錫膏之外，其他地方用量相當大，而且好用。
 <img src="guide/4-0.jpg" style="zoom: 50%;" >
@@ -236,7 +242,7 @@
 - 簡單說明下單格電路板上焊點及走線。
 <img src="guide/4-2.jpg" style="zoom: 50%;" >
 
-- 首先我們需要焊接IN1418貼片二級管到單格電路板上，貼片式二極管真的太小，我的手機無法使用微距拍攝，這邊借用一下網路上的[商品圖](https://www.alibaba.com/product-detail/Switching-diode-1N4148WT-1N4148-T4-SOD123_60811969627.html)。
+- 首先我們需要焊接IN1418貼片二級管到單格電路板上，由於貼片式二極管真的太小，我的手機無法使用微距拍攝，這邊借用一下網路上的[商品圖](https://www.alibaba.com/product-detail/Switching-diode-1N4148WT-1N4148-T4-SOD123_60811969627.html)。
 - 二極體有分正負極之分，其中有直線的那端為負極，這裡不知道什麼是負極沒有關係，就根據有線的那端作為方向性安裝。
 <img src="guide/4-3.jpg" style="zoom: 50%;" >
 
@@ -327,10 +333,10 @@
 - Row的步驟跟Column相同，只是電線長度會稍稍不一樣。
 <img src="guide/5-19.jpg" style="zoom: 50%;" >
 
-- 首先完成單邊Row。
+- 首先完成單邊鍵盤Row。
 <img src="guide/5-20.jpg" style="zoom: 50%;" >
 
-- 再來是雙手。
+- 再來是雙手（拓展部分的Row會用排線形式做連接，因此這裡只要把主鍵盤的Row先接好即可）。
 <img src="guide/5-21.jpg" style="zoom: 50%;" >
 
 
@@ -347,7 +353,7 @@
 
 #### A、燒錄鍵盤韌體
 
-- 由於作者我本人不是熟悉程式設計的工程師，因此很多東西需要花時間研究... 不過還好，2023.05.06晚上8點左右的時間，支援VIAL改鍵的探索者1號韌體成功編譯出來了，配列如下：
+- 由於作者本人我不是熟悉程式設計的工程師，因此很多東西需要花時間研究... 不過還好，2023.05.06晚上8點左右的時間，支援VIAL改鍵的探索者1號韌體成功編譯出來了，配列如下：
 <img src="guide/6-1.png" style="zoom: 50%;" >
 
 - 預設鍵位第一層～第四層：
@@ -356,14 +362,14 @@
 <img src="guide/6-4.png" style="zoom: 50%;" >
 <img src="guide/6-5.png" style="zoom: 50%;" >
 
-- 在組裝說明第三點有提到：全配列使用同一個韌體，這樣的好處是自由度增大，會在操作說明提及。
+- 在組裝說明第三點有提到：全配列使用同一個韌體，這樣的好處是自由度增大，會在[操作說明](manual.md)提及。
 - 首先將韌體[下載](https://github.com/DreaM117er/Explorer-Keyboard-RxCT/releases)下來準備好，打開[QMK toolbox](https://github.com/qmk/qmk_toolbox)。
 <img src="guide/6-6.png" style="zoom: 50%;" >
 
 - Local file的位置選定explorerkb_rxct_vial.hex，接著將Auto-Flash勾選起來。
 <img src="guide/6-7.png" style="zoom: 50%;" >
 
-- 將2片主控準備好，單片接上電腦後讓電腦辨識，此時MCU會亮橘紅色燈光。
+- 將2片Pro Micro（主控、MCU）準備好，單片接上電腦後讓電腦辨識，此時會亮橘紅色燈光。
 
 
 - 接著按下Bootloader的按鈕將韌體燒錄進Pro Micro裡面。
@@ -378,7 +384,7 @@
 - 最後點開VIAL查看是不是已經辨識到鍵盤。
 
 
-- 特別留意兩片MCU都要燒錄韌體，且不要使用VIAL改按鍵，不然實際上機時左右邊鍵盤不會相互辨識。
+- 特別留意兩片Pro Micro都要燒錄韌體，且不要使用VIAL事先改按鍵，不然實際上機時左右邊鍵盤不會相互辨識。
 
 #### B、最後組裝
 
