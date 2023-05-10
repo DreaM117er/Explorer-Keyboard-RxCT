@@ -383,11 +383,117 @@
 <img src="guide/6-12.png" style="zoom: 50%;" >
 
 - 最後點開VIAL查看是不是已經辨識到鍵盤。
-<img src="guide/6-13.png" style="zoom: 50%;" >
+<img src="guide/6-13.jpg" style="zoom: 50%;" >
 
 - 特別留意兩片Pro Micro都要燒錄韌體，且不要使用VIAL事先改按鍵，不然實際上機時左右邊鍵盤不會相互辨識。
 
 #### B、建立主控座
+
+- 主控座排線的部分會使用到RX1、右邊的GND、VCC，用於控制TRRS的訊號傳輸；矩陣部分會使用D4、C6、D7、E6、B4、B5作為Column；F7、B1、B3、B2、B6作為Row。也就是框起來的pin腳。
+<img src="guide/6-14.jpg" style="zoom: 50%;" >
+
+- 準備好排針母座，將上圖對應數量的母座用美工刀切下來。
+<img src="guide/6-15.jpg" style="zoom: 50%;" >
+<img src="guide/6-16.jpg" style="zoom: 50%;" >
+
+- 接著將排針安裝在主控背面，從正面焊接。
+<img src="guide/6-17.jpg" style="zoom: 50%;" >
+<img src="guide/6-18.jpg" style="zoom: 50%;" >
+<img src="guide/6-19.jpg" style="zoom: 50%;" >
+<img src="guide/6-20.jpg" style="zoom: 50%;" >
+
+- 完成2片主控後，接著在背面貼上絕緣膠帶。
+<img src="guide/6-21.jpg" style="zoom: 50%;" >
+<img src="guide/6-22.jpg" style="zoom: 50%;" >
+<img src="guide/6-23.jpg" style="zoom: 50%;" >
+
+- 將主控安裝在主控座上。
+<img src="guide/6-24.jpg" style="zoom: 50%;" >
+<img src="guide/6-25.jpg" style="zoom: 50%;" >
+<img src="guide/6-26.jpg" style="zoom: 50%;" >
+
+- 最後將卡扣鎖回去（務必記得雙手主控座都要先完成）。
+<img src="guide/6-27.jpg" style="zoom: 50%;" >
+<img src="guide/6-28.jpg" style="zoom: 50%;" >
+<img src="guide/6-29.jpg" style="zoom: 50%;" >
+
+- 接著準備排針公頭，將2組3pin切下來。
+<img src="guide/6-30.jpg" style="zoom: 50%;" >
+
+- 準備好烙鐵工作臺、電線、超黏無痕膠帶、TRRS線。
+<img src="guide/6-31.jpg" style="zoom: 50%;" >
+
+- 首先將TRRS座稍微固定在TRRS線上，用工作臺上的固定夾固定。
+<img src="guide/6-32.jpg" style="zoom: 50%;" >
+<img src="guide/6-33.jpg" style="zoom: 50%;" >
+
+- 接著在3個會使用到的針腳上刷上助焊劑。
+<img src="guide/6-34.jpg" style="zoom: 50%;" >
+
+- 將針腳上沾上一些錫後先放著。
+<img src="guide/6-35.jpg" style="zoom: 50%;" >
+<img src="guide/6-36.jpg" style="zoom: 50%;" >
+
+- 接著剪下長度稍長的電線，需要用到6條。
+<img src="guide/6-37.jpg" style="zoom: 50%;" >
+<img src="guide/6-38.jpg" style="zoom: 50%;" >
+
+- 用剝線鉗將所有剪下的電線其中一端露出金屬部分，沾上錫膏。
+<img src="guide/6-39.jpg" style="zoom: 50%;" >
+<img src="guide/6-40.jpg" style="zoom: 50%;" >
+
+- 接著將電線接在TRRS座上。
+<img src="guide/6-41.jpg" style="zoom: 50%;" >
+<img src="guide/6-42.jpg" style="zoom: 50%;" >
+
+- 剪下適量長度的熱縮管。
+<img src="guide/6-43.jpg" style="zoom: 50%;" >
+
+- 套上電線拉至TRRS針腳處，用熱風槍將熱縮管固定。
+<img src="guide/6-44.jpg" style="zoom: 50%;" >
+<img src="guide/6-45.jpg" style="zoom: 50%;" >
+
+- 接著將TRRS座安裝在主控座上。
+<img src="guide/6-47.jpg" style="zoom: 50%;" >
+
+- 依據[配線圖](https://github.com/DreaM117er/Explorer-Keyboard-RxCT/blob/main/guide.md#%E4%B8%89%E9%85%8D%E7%B7%9A%E5%9C%96%E5%8F%8A%E5%8E%9F%E7%90%86)，測量TRRS各針腳需要使用多長長度連接到對應的主控針腳上。
+<img src="guide/6-14.jpg" style="zoom: 50%;" >
+<img src="guide/6-48.jpg" style="zoom: 50%;" >
+<img src="guide/6-49.jpg" style="zoom: 50%;" >
+
+- 把3pin公排針夾上固定夾
+<img src="guide/6-50.jpg" style="zoom: 50%;" >
+
+- 依照TRRS座接電線的方式，在針腳上刷一點錫。
+<img src="guide/6-51.jpg" style="zoom: 50%;" >
+<img src="guide/6-52.jpg" style="zoom: 50%;" >
+<img src="guide/6-53.jpg" style="zoom: 50%;" >
+
+- 熱縮管先套至TRRS座上的電線再進行電線連接的動作。
+<img src="guide/6-54.jpg" style="zoom: 50%;" >
+<img src="guide/6-55.jpg" style="zoom: 50%;" >
+<img src="guide/6-56.jpg" style="zoom: 50%;" >
+
+- 然後將熱縮管固定好。
+<img src="guide/6-57.jpg" style="zoom: 50%;" >
+<img src="guide/6-58.jpg" style="zoom: 50%;" >
+
+- 再用美工刀將3pin公排針切開。
+<img src="guide/6-59.jpg" style="zoom: 50%;" >
+
+- 接著剪下無痕膠帶後貼在TRRS座上。
+<img src="guide/6-60.jpg" style="zoom: 50%;" >
+<img src="guide/6-61.jpg" style="zoom: 50%;" >
+
+- 將TRRS座固定在主控座上，最後再將卡扣鎖上。
+<img src="guide/6-62.jpg" style="zoom: 50%;" >
+<img src="guide/6-63.jpg" style="zoom: 50%;" >
+<img src="guide/6-64.jpg" style="zoom: 50%;" >
+
+- 最後將雙手TRRS座上的排針連接到對應的位置。
+<img src="guide/6-65.jpg" style="zoom: 50%;" >
+<img src="guide/6-66.jpg" style="zoom: 50%;" >
+
 
 
 
