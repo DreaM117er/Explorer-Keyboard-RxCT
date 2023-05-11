@@ -227,14 +227,14 @@
 <img src="guide/3-2-matrix-3x6.png" style="zoom: 50%;" >
 <img src="guide/3-2-matrix-4x6.png" style="zoom: 50%;" >
 
-### （四）單格電路板及排線製作
+### （四）單格電路板準備動作
 
 - Dactyl Manuform系列鍵盤最主要使用的是電線連接軸體針腳彼此來建立鍵盤矩陣，但工藝相對來說比較繁瑣及麻煩，因此在設計探索者1號的時候就是以[單格電路板](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=)開發設計，這裡特別感謝[James Sa](https://github.com/jamessa)為了我而設計這塊單格電路板，可以在焊接、熱插拔這兩個選項中做選擇。
 - 這裡列出幾種可以作為替代的單格電路板供大家參考：[Amoeba Single PCBs](https://github.com/mtl/keyboard-pcbs)、[MxLEDBit](https://github.com/swanmatch/MxLEDBitPCB)、[PCBabies](https://boardsource.xyz/store/5ecb867c86879c9a0c22dbb6)。
 - 在正式焊接之前要特別介紹常用的焊接工具————助焊劑、或是稱為錫膏；探索者1號除了壓製熱壓螺母不會動到錫膏之外，其他地方用量相當大，而且好用。
 <img src="guide/4-0.jpg" style="zoom: 50%;" >
 
-#### A、單格電路板
+#### A、貼片二極體
 
 - 首先準備好相應數量的單格電路板，4x6+4會用到56片。
 <img src="guide/4-1.jpg" style="zoom: 50%;" >
@@ -262,6 +262,8 @@
 <img src="guide/4-8.jpg" style="zoom: 50%;" >
 <img src="guide/4-9.jpg" style="zoom: 50%;" >
 
+#### B、熱插拔座
+
 - 接著在熱插拔座單邊焊點先上一點錫。
 <img src="guide/4-10.jpg" style="zoom: 50%;" >
 
@@ -271,14 +273,8 @@
 <img src="guide/4-13.jpg" style="zoom: 50%;" >
 <img src="guide/4-14.jpg" style="zoom: 50%;" >
 
-- 將56片都焊接好後，準備來學習如何焊接排線。
+- 將56片都焊接好後，接著進入下一個步驟。
 <img src="guide/4-15.jpg" style="zoom: 50%;" >
-
-#### B、排線製作
-
-
-
-
 
 ### （五）單格電路板矩陣建立
 
@@ -496,7 +492,16 @@
 <img src="guide/6-65.jpg" style="zoom: 50%;" >
 <img src="guide/6-66.jpg" style="zoom: 50%;" >
 
-#### D、主控連接底殼
+### 七、排線
+
+#### A、製作排線 
+
+
+
+
+
+
+#### B、底殼部分
 
 
 
@@ -505,9 +510,21 @@
 
 
 
+#### C、定位板
 
 
-### 七、矩陣排線建立
+
+
+
+
+#### D、拇指區
+
+
+
+
+
+
+
 
 
 
