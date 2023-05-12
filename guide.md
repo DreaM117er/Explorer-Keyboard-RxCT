@@ -335,16 +335,6 @@
 - 再來是雙手（拓展部分的Row會用排線形式做連接，因此這裡只要把主鍵盤的Row先接好即可）。
 <img src="guide/5-21.jpg" style="zoom: 50%;" >
 
-
-
-
-
-
-
-
-
-
-
 ### （六）鍵盤韌體及主控座
 
 #### A、燒錄鍵盤韌體
@@ -462,7 +452,7 @@
 - 把3pin公排針夾上固定夾
 <img src="guide/6-50.jpg" style="zoom: 50%;" >
 
-- 依照TRRS座接電線的方式，在針腳上刷一點錫。
+- 依照TRRS座接電線的方式，在針腳上刷一點錫（這裡特別留意上錫的時間不能超過1秒，排針上的塑料固定口會融化崩解）。
 <img src="guide/6-51.jpg" style="zoom: 50%;" >
 <img src="guide/6-52.jpg" style="zoom: 50%;" >
 <img src="guide/6-53.jpg" style="zoom: 50%;" >
@@ -496,19 +486,85 @@
 
 #### A、製作排線 
 
+- 製作排線是需要點細心的手藝，這邊我會儘可能的教大家如何製作。
+- 探索者1號最後的安裝步驟都會跟排線有關，第一次做務必做好Column、Row走線使用的電線顏色，這是為了防呆處理，也比較好辨識排線上的針腳是走什麼訊號。
+- 再一次把配線圖放在這裡：
+<img src="guide/3-2-matrix-3x6.png" style="zoom: 50%;" >
+<img src="guide/3-2-matrix-4x6.png" style="zoom: 50%;" >
 
+- 特別留意拇指區、拓展的部分，這兩個地方製作的排線會稍稍複雜一點。
+- 首先準備好烙鐵工作臺、錫膏、筆刷、紅色電線、白色電線、剝線鉗、小剪刀等工具。
+<img src="guide/7-1.jpg" style="zoom: 50%;" >
 
+- 排線依據功能連接需求會需要使用公排針或母排針，這邊先以連接底殼跟主控座用排線當作範例。
+<img src="guide/7-2.jpg" style="zoom: 50%;" >
 
+- 這裡先準備一定長度的白色電線，用於Column；紅色電線用於Row。
+<img src="guide/7-3.jpg" style="zoom: 50%;" >
 
+- 先製作可直插主控座上的公排針，首先將一定長度的白色電線剪下6條備著；紅色電線剪下4條。
+<img src="guide/7-4.jpg" style="zoom: 50%;" >
+
+- Column會使用到6pin的公排針、Row會用到5pin，先用美工刀切下來備著。
+<img src="guide/7-5.jpg" style="zoom: 50%;" >
+
+- 這邊先從Row的排針開始做，首先把5pin排針夾在夾子上。
+<img src="guide/7-6.jpg" style="zoom: 50%;" >
+
+- 在針腳上刷上錫膏後，點上一點錫（這裡特別留意上錫的時間不能超過1秒，排針上的塑料固定口會融化崩解）。
+<img src="guide/7-7.jpg" style="zoom: 50%;" >
+<img src="guide/7-8.jpg" style="zoom: 50%;" >
+
+- 接著將電線的一端剝出金屬部分。
+<img src="guide/7-9.jpg" style="zoom: 50%;" >
+
+- 線頭點一點錫膏後，連接排針。
+<img src="guide/7-10.jpg" style="zoom: 50%;" >
+<img src="guide/7-11.jpg" style="zoom: 50%;" >
+
+- 是不是這個感覺跟TRRS座的連接方式很相似？沒錯，原理基本一樣，就差在有沒有將排針切開分離。
+- 接著在線頭連接處上熱縮管固定後，會得到一組單邊公排針的排線。
+<img src="guide/7-12.jpg" style="zoom: 50%;" >
+
+- 接著就將所有主控部分會用到的單邊排線都先做好備著。
+<img src="guide/7-13.jpg" style="zoom: 50%;" >
 
 #### B、底殼部分
 
+- 接著將Column、Row公排針的部分穿過底殼，接在主控座上。
+<img src="guide/7-14.jpg" style="zoom: 50%;" >
+<img src="guide/7-15.jpg" style="zoom: 50%;" >
 
+- 接著用M3x6mm扁頭螺絲固定住主控座。
+<img src="guide/7-16.jpg" style="zoom: 50%;" >
+<img src="guide/7-17.jpg" style="zoom: 50%;" >
 
+- 這裡會測量需要多長的排線，首先用手將電線順好，簡單量一個合適的長度後，把不要的部分剪掉。
+<img src="guide/7-18.jpg" style="zoom: 50%;" >
+<img src="guide/7-19.jpg" style="zoom: 50%;" >
+<img src="guide/7-20.jpg" style="zoom: 50%;" >
 
+- 將主控座跟排線先卸下，準備排針母座。
+<img src="guide/7-21.jpg" style="zoom: 50%;" >
 
+- 接著做法跟公排針一樣：夾子夾住排針座、刷錫膏、點錫、剝線、接線（這邊特別留意在接線的前要先將熱縮管套上）。
+<img src="guide/7-22.jpg" style="zoom: 50%;" >
+<img src="guide/7-23.jpg" style="zoom: 50%;" >
+<img src="guide/7-24.jpg" style="zoom: 50%;" >
+<img src="guide/7-25.jpg" style="zoom: 50%;" >
 
+- 完成所有的排針後，再次安裝主控座至底殼上。
+<img src="guide/7-26.jpg" style="zoom: 50%;" >
+<img src="guide/7-27.jpg" style="zoom: 50%;" >
+<img src="guide/7-28.jpg" style="zoom: 50%;" >
+<img src="guide/7-29.jpg" style="zoom: 50%;" >
 
+- 排針母座上黏無痕雙面膠，按照先前找到的位置固定住。
+<img src="guide/7-30.jpg" style="zoom: 50%;" >
+<img src="guide/7-31.jpg" style="zoom: 50%;" >
+
+- 最後會是這樣的感覺：
+<img src="guide/7-32.jpg" style="zoom: 50%;" >
 
 #### C、定位板
 
