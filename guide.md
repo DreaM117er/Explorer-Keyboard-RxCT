@@ -568,6 +568,28 @@
 
 #### C、定位板
 
+- 接著我們要將主定位板上連接各個部件的排線建立好，請看下圖配線圖框起來的部分：
+<img src="guide/7-b.png" style="zoom: 50%;" >
+
+- 這個步驟會稍微有些複雜，務必按照順序慢慢看。
+- 除非已經決定好自己需要什麼樣的配列，不然請按照組裝說明的方式做安裝。
+- 準備好5pin單邊白色公排針2組，先建立主鍵盤Column連接底殼的排線。
+<img src="guide/7-33.jpg" style="zoom: 50%;" >
+
+- 將排線依序連接到主鍵區上的Column孔位（綠色圈起來的地方）。
+<img src="guide/7-34.jpg" style="zoom: 50%;" >
+
+- 個人建議可以先從中指的部分開始接，再依序向外做接線。
+<img src="guide/7-35.jpg" style="zoom: 50%;" >
+
+- 完成後會是這樣的感覺。
+<img src="guide/7-36.jpg" style="zoom: 50%;" >
+
+- 再來連接Row連接底殼的部分（黃色部分）。
+<img src="guide/7-37.jpg" style="zoom: 50%;" >
+
+- 最後會是這樣。
+<img src="guide/7-38.jpg" style="zoom: 50%;" >
 
 
 
