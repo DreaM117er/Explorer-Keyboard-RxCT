@@ -675,7 +675,7 @@
 <img src="guide/8-13.jpg" style="zoom: 50%;" >
 
 - 到這邊已經可以把TRRS線接上再接電腦測試按鍵，但不要將VIAL中的Matrix Tester打開測試，請使用[Keyboard Test Utility](https://keyboard-test-utility.en.lo4d.com/windows)跟預設鍵位做測試。
-<img src="guide/8-14.jpg" style="zoom: 50%;" >
+<img src="guide/8-14.png" style="zoom: 50%;" >
 
 ### （九）拇指區
 
