@@ -40,42 +40,42 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 ## 構造圖
 
 - 底殼、拓展板
-<img src="image/structure1-1.png" style="zoom: 50%;" >
-<img src="image/structure1-2.png" style="zoom: 50%;" >
-<img src="image/structure1-3.png" style="zoom: 50%;" >
-<img src="image/structure1-4.png" style="zoom: 50%;" >
+<img src="image/structure/1-1.png" style="zoom: 50%;" >
+<img src="image/structure/1-2.png" style="zoom: 50%;" >
+<img src="image/structure/1-3.png" style="zoom: 50%;" >
+<img src="image/structure/1-4.png" style="zoom: 50%;" >
 
 - 框架
 
-<img src="image/structure2-1.png" style="zoom: 50%;" >
-<img src="image/structure2-2.png" style="zoom: 50%;" >
+<img src="image/structure/2-1.png" style="zoom: 50%;" >
+<img src="image/structure/2-2.png" style="zoom: 50%;" >
 
 - 直列定位板
 
-<img src="image/structure3-1.png" style="zoom: 50%;" >
-<img src="image/structure3-2.png" style="zoom: 50%;" >
+<img src="image/structure/3-1.png" style="zoom: 50%;" >
+<img src="image/structure/3-2.png" style="zoom: 50%;" >
 
 - 拇指區基座
 
-<img src="image/structure4-1.png" style="zoom: 50%;" >
-<img src="image/structure4-2.png" style="zoom: 50%;" >
+<img src="image/structure/4-1.png" style="zoom: 50%;" >
+<img src="image/structure/4-2.png" style="zoom: 50%;" >
 
 - 拇指定位板、拇指底板、連接器
 
-<img src="image/structure5-1.png" style="zoom: 50%;" >
-<img src="image/structure5-2.png" style="zoom: 50%;" >
-<img src="image/structure5-3.png" style="zoom: 50%;" >
+<img src="image/structure/5-1.png" style="zoom: 50%;" >
+<img src="image/structure/5-2.png" style="zoom: 50%;" >
+<img src="image/structure/5-3.png" style="zoom: 50%;" >
 
 - 主控座、電池倉
 
-<img src="image/structure6-1.png" style="zoom: 50%;" >
-<img src="image/structure6-2.png" style="zoom: 50%;" >
-<img src="image/structure6-3.png" style="zoom: 50%;" >
-<img src="image/structure6-4.png" style="zoom: 50%;" >
+<img src="image/structure/6-1.png" style="zoom: 50%;" >
+<img src="image/structure/6-2.png" style="zoom: 50%;" >
+<img src="image/structure/6-3.png" style="zoom: 50%;" >
+<img src="image/structure/6-4.png" style="zoom: 50%;" >
 
 - 前方雲台插件
 
-<img src="image/structure6-5.png" style="zoom: 50%;" >
+<img src="image/structure/6-5.png" style="zoom: 50%;" >
 
 ## 特別感謝
 
