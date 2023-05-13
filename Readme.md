@@ -18,7 +18,7 @@ RxCT是基於[Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform)�
 
 ## 組裝及操作說明
 
-- [組裝說明書](guide.md) （WIP）
+- [組裝說明書](guide.md) 
 - [操作說明書](manual.md)
 - 無線安裝說明（開發中）
 
