@@ -18,6 +18,7 @@
 - 2023.04.24 探索者1號登上[KBDNews](https://kbd.news/Explorer-RxCT-1994.html)。
 - 2023.05.06 支援探索者1號的[VIAL](https://get.vial.today/)韌體完工。
 - 2023.05.10 探索者1號的[韌體](https://github.com/DreaM117er/Explorer-Keyboard-RxCT/releases)正式發佈。
+- 2023.05.14 探索者1號4x6+4鍵盤完成、測試。
 
 ## 開發心得
 

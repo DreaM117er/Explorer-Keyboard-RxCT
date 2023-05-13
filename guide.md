@@ -45,7 +45,7 @@
 | 2.54mm 圓排針母 | N/A | [Link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.18132e8d8onSZm&id=627818679656&_u=n3lhas11659a) |
 | 外徑1mm 熱縮套管 | N/A | [Link](https://shopee.tw/(%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%BB%A0%E8%A3%BD)%E9%80%8F%E6%98%8E%E7%86%B1%E7%B8%AE%E5%A5%97%E7%AE%A1%E8%B3%A3%E5%A0%B4-%E7%86%B1%E7%B8%AE%E5%A5%97%E7%AE%A1-%E9%98%B2%E5%A1%B5%E5%A5%97-%E7%B5%95%E7%B7%A3%E7%AE%A1-%E7%AB%AF%E5%AD%90%E7%AE%A1-%E7%B5%95%E7%B7%A3-%E7%86%B1%E7%B8%AE%E7%AE%A1-%E7%86%B1%E7%B8%AE%E8%86%9C-%E7%86%B1%E7%B8%AE%E5%A5%97-%E8%9D%A6%E7%AB%BF-%E9%87%A3%E7%AB%BF-%E7%AB%AF%E5%AD%90-i.42958561.3656848147) |
 | 單格電路板 | 56 | [Link](https://www.pragmatic.com.tw/shop/single-switch-pcb-101#attr=) |
-| IN1418 貼片式T4 開關二級管 | 56 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111e26&id=614392649945&spm=a1z09.2.0.0.18132e8d8onSZm) |
+| 1N1418 貼片式T4 開關二級管 | 56 | [Link](https://detail.tmall.com/item.htm?_u=n3lhas111e26&id=614392649945&spm=a1z09.2.0.0.18132e8d8onSZm) |
 
 ## 列印注意事項
 
@@ -242,7 +242,7 @@
 - 簡單說明下單格電路板上焊點及走線。
 <img src="guide/4-2.jpg" style="zoom: 50%;" >
 
-- 首先我們需要焊接IN1418貼片二級管到單格電路板上，由於貼片式二極管真的太小，我的手機無法使用微距拍攝，這邊借用一下網路上的[商品圖](https://www.alibaba.com/product-detail/Switching-diode-1N4148WT-1N4148-T4-SOD123_60811969627.html)。
+- 首先我們需要焊接1N1418貼片二級管到單格電路板上，由於貼片式二極管真的太小，我的手機無法使用微距拍攝，這邊借用一下網路上的[商品圖](https://www.alibaba.com/product-detail/Switching-diode-1N4148WT-1N4148-T4-SOD123_60811969627.html)。
 - 二極體有分正負極之分，其中有直線的那端為負極，這裡不知道什麼是負極沒有關係，就根據有線的那端作為方向性安裝。
 <img src="guide/4-3.jpg" style="zoom: 50%;" >
 
@@ -677,17 +677,44 @@
 - 到這邊已經可以把TRRS線接上再接電腦測試按鍵，但不要將VIAL中的Matrix Tester打開測試，請使用[Keyboard Test Utility](https://keyboard-test-utility.en.lo4d.com/windows)跟預設鍵位做測試。
 <img src="guide/8-14.png" style="zoom: 50%;" >
 
-### （九）拇指區
+### （九）拇指區及最後組裝
 
-##### a、固定鍵位
+#### A、固定鍵位
 
-- 這裡會演示2種不同拇指區的安裝方式，首先會是預設鍵位的4鍵拇指按鍵。
+- 這裡會演示2種不同拇指區的安裝方式，先演示預設鍵位的4鍵拇指按鍵。
+<img src="guide/9-1.jpg" style="zoom: 50%;" >
 
+- 這邊會需要用焊錫填上Row及Col的其中一個孔位，根據自己的判斷方便拉線即可。
+- 再將紅色電線量好按鍵左右距離，並將它們接在一起。
+<img src="guide/9-2.jpg" style="zoom: 50%;" >
+<img src="guide/9-3.jpg" style="zoom: 50%;" >
 
+- 最後拉1條較長的電線，用於連接主鍵盤。
+<img src="guide/9-4.jpg" style="zoom: 50%;" >
 
+- 接著將每顆按鍵的Column都接上。
+<img src="guide/9-5.jpg" style="zoom: 50%;" >
 
+- 再來將5條電線依序接在5pin的公排針上（不要忘記先套熱縮管）。
+<img src="guide/9-6.jpg" style="zoom: 50%;" >
 
-##### b、可插拔按鍵
+- 最後將紅色Row跟白色Column的公排針切開來分離。
+<img src="guide/9-7.jpg" style="zoom: 50%;" >
+
+- 排針做好之後就可以將拇指區按照喜歡的角度裝回去。
+<img src="guide/9-8.jpg" style="zoom: 50%;" >
+
+- 按照顏色及對應的Column將排線連接主鍵盤。
+<img src="guide/9-9.jpg" style="zoom: 50%;" >
+<img src="guide/9-10.jpg" style="zoom: 50%;" >
+
+- 接著將基座的4顆螺絲鎖上底殼。
+<img src="guide/9-11.jpg" style="zoom: 50%;" >
+
+這樣鍵盤就完成了。
+<img src="guide/9-12.jpg" style="zoom: 50%;" >
+
+#### B、可插拔按鍵
 
 - 可插拔按鍵是我在建立組裝說明的時候想到的，可根據自己的需求決定是不是要用這個方式做安裝，好處是可以不用動烙鐵就可以快速插拔變更鍵盤的按鍵數量。
 
