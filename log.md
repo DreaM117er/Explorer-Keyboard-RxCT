@@ -43,12 +43,12 @@
 - 長得像TBKmini的3x6+3，合計42鍵的鍵盤。
 - 根據使用鍵盤時手指正常移動的軌跡後發現需要讓中指區跟食指、無名指區域齊平。
 
-<img src="log/1-1.jpg" style="zoom: 50%;" >
-<img src="log/1-2.jpg" style="zoom: 50%;" >
+<img src="image/log/1-1.jpg" style="zoom: 50%;" >
+<img src="image/log/1-2.jpg" style="zoom: 50%;" >
 
 - 拇指區要能夠遵守正常擺放及使用不會把筋爆出來的原則。
 
-<img src="log/1-3.jpg" style="zoom: 50%;" >
+<img src="image/log/1-3.jpg" style="zoom: 50%;" >
 
 - 拇指區要能夠微調角度。
 - 長得要跟[Skeleton Edition](https://github.com/atsuyuki/dactyl-manuform-skeleton-edition-4x5)一樣Cyberpunk。
@@ -59,25 +59,25 @@
 
 第一次設計出來的模型長的跟Skeleton Edition非常相似，底座更改為球體，走線都走在球體內，但我沒有想到3D列印的公差，於是整個模型呈現一個大失敗，熱壓螺母的定位孔也直接崩解，不鏽鋼柱由於沒有計算到公差而無法順利的安裝，甚至有一處直接被我壓到裂開；定位板的部分則是沒有計算好按鍵跟按鍵之間的距離，導致安裝好鍵帽之後直接卡死。最後詢問James大致上3D列印的公差後，正式開始了第二次設計。
 
-<img src="log/2-1.jpg" style="zoom: 50%;" >
-<img src="log/2-2.jpg" style="zoom: 50%;" >
-<img src="log/2-3.jpg" style="zoom: 50%;" >
+<img src="image/log/2-1.jpg" style="zoom: 50%;" >
+<img src="image/log/2-2.jpg" style="zoom: 50%;" >
+<img src="image/log/2-3.jpg" style="zoom: 50%;" >
 
 我在第一次的模型設計後就有發現，拇指區相當難設計，主鍵區真的還好，我很早就將模型設計出來了，而且有很多不同的構想。有第一次的失敗後就決定慢慢來，設計循序漸進地先將主鍵區的公差搞定，結果左右距離過遠（汗），但確實手感相當的好，於是就依據這個主鍵區模型開始後續探索者的設計...
 
-<img src="log/3-1.jpg" style="zoom: 50%;" >
-<img src="log/3-2.jpg" style="zoom: 50%;" >
+<img src="image/log/3-1.jpg" style="zoom: 50%;" >
+<img src="image/log/3-2.jpg" style="zoom: 50%;" >
 
 為什麼會想到雲台？有一天我在整理收納空間的時候翻到之前擺在一旁沒有用到的手機支架，支架上剛好有一個雲台，就這樣把構想告訴James後，第一個探索者的模型誕生了。
 
 第一版的雛形是將前方雲台座整跟底部雲台座一體成形，但後來體積實在是太大，鍵盤整體高度太過，於是將這個設計捨棄掉，另闢一個新的設計。
 
-<img src="log/4-1.png" style="zoom: 50%;" >
-<img src="log/4-2.png" style="zoom: 50%;" >
+<img src="image/log/4-1.png" style="zoom: 50%;" >
+<img src="image/log/4-2.png" style="zoom: 50%;" >
 
 第二版將底部雲台座整個分離，原先是想要將這個可以分離的雲台座卸下安裝在前端，好達成壓低鍵盤厚度的構想。但實際設計好後才發現不如一開始就將雲台設計在底部，用外掛插件的形式將雲台座設計在前端。
 
-<img src="log/4-3.png" style="zoom: 50%;" >
+<img src="image/log/4-3.png" style="zoom: 50%;" >
 
 還在思索可以怎麼設計的時候，眼睛盯著當時擺在我眼前的TBKmini，於是就開始觀察它，看著我覺得一直是缺點的中指凹陷處、開槽直接裸露裡面內部走線的洞口，最後看到按鍵跟按鍵中間的開槽處，於是有了一個很特別的想法：
 
@@ -85,9 +85,8 @@
 
 這就是RxCT模組化的起源，後續設計的時候一直朝著這個構想前進，有什麼遇到困難的地方，就是一個轉念讓自己好好地思考模組化可以怎麼設計。
 
-<img src="log/5-1.jpg" style="zoom: 50%;" >
+<img src="image/log/5-1.jpg" style="zoom: 50%;" >
 
-想到模組化，就很容易聯想到框架，於是這把鍵盤中間的部分就完成了，加上我特別偏好Top Mount設計的鍵盤，於是將這把鍵盤也設計成這個結構；前面我也有提到，主鍵區相當好設計，框架設計好之後就在思索怎麼壓低整體鍵盤的厚度，綜合起來合計7mm的底部空間，剛好可以安裝單格電路板、走線的厚度，也不會卡到針腳。
 
 底殼設計好後，依然卡在最難設計的拇指區，一開始也是仿照主鍵盤區塊設計，但實際收到幾次的模型後James都有發現框架過於脆弱的問題，它很容易斷裂。於是這兩個大問題就花了不少時間去重新設計，主框架太脆弱的問題後來是將框架用部分放樣做加固；拇指區比較特別，我將基座的雛形建制出來後，拇指按鍵設計好再來設計，但不管我怎麼移動拇指區的底板就是哪裡不太對、用框架架設拇指定位板也不對、旋轉角度也不太對... 
 
@@ -95,9 +94,9 @@
 
 "如果不要放樣接起來的話，那就用連接器連接，按鍵統統分開來設計好了。"
 
-<img src="log/6-1.png" style="zoom: 50%;" >
-<img src="log/6-2.png" style="zoom: 50%;" >
-<img src="log/6-3.png" style="zoom: 50%;" >
+<img src="image/log/6-1.png" style="zoom: 50%;" >
+<img src="image/log/6-2.png" style="zoom: 50%;" >
+<img src="image/log/6-3.png" style="zoom: 50%;" >
 
 很多種的意外，導致這把鍵盤有很多人覺得不可思議的設計，我相信能夠設計出來就是我自己的創意發想，這點毋庸置疑。
 
