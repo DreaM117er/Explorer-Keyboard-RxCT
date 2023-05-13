@@ -591,11 +591,105 @@
 - 最後會是這樣。
 <img src="guide/7-38.jpg" style="zoom: 50%;" >
 
+- 接著會來進行拓展連接用的排線，4x6配列會使用到5pin的排母。（如果沒有要安裝拓展可跳過這個步驟）
+<img src="guide/7-39.jpg" style="zoom: 50%;" >
+
+- 為什麼會用到5pin？大家可以看一下佈線圖，連接拖展的部分除了4個Row之外，還有一條線是接在Column上。
+<img src="guide/7-c.png" style="zoom: 50%;" >
+
+- 接著就是製作連接4條紅色電線跟1條白色電線的排針母座。
+<img src="guide/7-40.jpg" style="zoom: 50%;" >
+<img src="guide/7-41.jpg" style="zoom: 50%;" >
+
+- 完成母排針後，Column連接底殼的部分會使用到公排針。
+<img src="guide/7-42.jpg" style="zoom: 50%;" >
+
+- 最後將紅色部分依序連接到拓展會用到的Row孔上。
+<img src="guide/7-43.jpg" style="zoom: 50%;" >
+
+- 完成後會是這樣。
+<img src="guide/7-44.jpg" style="zoom: 50%;" >
+
+- 依序這個原理，最後一個步驟就是將連接拇指區的排線做好。
+<img src="guide/7-d.png" style="zoom: 50%;" >
+
+- 這邊會用到4條白色電線跟1條紅色電線，跟拓展一樣使用5pin排針母座建立單邊排線。
+<img src="guide/7-45.jpg" style="zoom: 50%;" >
+<img src="guide/7-46.jpg" style="zoom: 50%;" >
+
+- 接著將白色的部分分別接在Column0～3的位置上（藍色圈起來的部分）。
+<img src="guide/7-47.jpg" style="zoom: 50%;" >
+
+- 連接拇指區的排線特別留意要從中指區下方的洞口露出，務必對好中指區的長度進行裁切。
+<img src="guide/7-48.jpg" style="zoom: 50%;" >
+
+- 裁切好電線長度後開始接線。
+<img src="guide/7-49.jpg" style="zoom: 50%;" >
+
+#### D、拓展板
+
+- 接著再準備製作拓展用的排針公排線。
+<img src="guide/7-50.jpg" style="zoom: 50%;" >
+<img src="guide/7-51.jpg" style="zoom: 50%;" >
+
+- 這邊可以線將排針接在主鍵盤上進行測量再進行電線的裁切。
+<img src="guide/7-52.jpg" style="zoom: 50%;" >
+
+- 完成後會是這樣：
+<img src="guide/7-53.jpg" style="zoom: 50%;" >
+
+- 接著將拓展底板線固定上去後，暫時放一邊。
+<img src="guide/7-54.jpg" style="zoom: 50%;" >
+<img src="guide/7-55.jpg" style="zoom: 50%;" >
+
+### （八）主鍵盤組裝
+
+- 接著按照佈線圖上標示的走線安裝排線，特別留意顏色的部分，這是比較特殊的排線走法，務必不要接錯線。
+<img src="guide/8-a.png" style="zoom: 50%;" >
+
+- 左手鍵盤：
+<img src="guide/8-1.jpg" style="zoom: 50%;" >
+<img src="guide/8-2.jpg" style="zoom: 50%;" >
+
+- 右手鍵盤：
+<img src="guide/8-3.jpg" style="zoom: 50%;" >
+<img src="guide/8-4.jpg" style="zoom: 50%;" >
+
+- 接著開始接左手鍵盤的線。
+<img src="guide/8-5.jpg" style="zoom: 50%;" >
+<img src="guide/8-6.jpg" style="zoom: 50%;" >
+<img src="guide/8-7.jpg" style="zoom: 50%;" >
+
+- 蓋上底板後，鎖上螺絲就完成了。
+<img src="guide/8-8.jpg" style="zoom: 50%;" >
+
+- 再來接右手鍵盤的線。
+<img src="guide/8-9.jpg" style="zoom: 50%;" >
+<img src="guide/8-10.jpg" style="zoom: 50%;" >
+
+- 一樣鎖上螺絲。
+<img src="guide/8-11.jpg" style="zoom: 50%;" >
+<img src="guide/8-12.jpg" style="zoom: 50%;" >
+
+- 最後會是這樣的感覺。
+<img src="guide/8-13.jpg" style="zoom: 50%;" >
+
+- 到這邊已經可以把TRRS線接上再接電腦測試按鍵，但不要將VIAL中的Matrix Tester打開測試，請使用[Keyboard Test Utility](https://keyboard-test-utility.en.lo4d.com/windows)跟預設鍵位做測試。
+<img src="guide/8-14.jpg" style="zoom: 50%;" >
+
+### （九）拇指區
+
+##### a、固定鍵位
+
+- 這裡會演示2種不同拇指區的安裝方式，首先會是預設鍵位的4鍵拇指按鍵。
 
 
 
 
-#### D、拇指區
+
+##### b、可插拔按鍵
+
+- 可插拔按鍵是我在建立組裝說明的時候想到的，可根據自己的需求決定是不是要用這個方式做安裝，好處是可以不用動烙鐵就可以快速插拔變更鍵盤的按鍵數量。
 
 
 
@@ -604,14 +698,5 @@
 
 
 
-
-
-
-### （八）、最後組裝
-
-
-
-
-### （九）、鍵盤測試
 
 
