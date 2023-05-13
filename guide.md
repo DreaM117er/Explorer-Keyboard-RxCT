@@ -716,14 +716,68 @@
 
 #### B、可插拔按鍵
 
-- 可插拔按鍵是我在建立組裝說明的時候想到的，可根據自己的需求決定是不是要用這個方式做安裝，好處是可以不用動烙鐵就可以快速插拔變更鍵盤的按鍵數量。
+- 可插拔按鍵是我在建立組裝說明的時候想到的，可根據自己的需求決定是不是要用這個方式做安裝，好處是可以不用動烙鐵就可以快速插拔變更鍵盤的拇指按鍵數量。
+- 首先準備好4pin的母排針座，上頭先上一些錫。
+<img src="guide/9-13.jpg" style="zoom: 50%;" >
 
+- 接著準備一條電線，將裡面的線芯用旋轉的方式抽出來，接著在線芯上抹上錫膏，用錫先將它們集成一束。
+<img src="guide/9-14.jpg" style="zoom: 50%;" >
 
+- 將線芯用焊錫固定在4個針腳上。
+<img src="guide/9-15.jpg" style="zoom: 50%;" >
+<img src="guide/9-16.jpg" style="zoom: 50%;" >
 
+- 完成後再接1條紅色的電線在外側一端針腳上，用熱縮管套上。
+<img src="guide/9-17.jpg" style="zoom: 50%;" >
 
+- 可以繞一圈修剪一下長度後，把公排針接上去。
+<img src="guide/9-18.jpg" style="zoom: 50%;" >
 
+- 接著再將排針母座用膠固定在主鍵盤上的排針上（這裡務必對好針腳前後左右要對齊）。
+<img src="guide/9-19.jpg" style="zoom: 50%;" >
 
+- 再來將公排針接在連接主鍵盤的母排針上。
+<img src="guide/9-20.jpg" style="zoom: 50%;" >
 
+- 最後用絕緣膠將排針捆起來就完成前置動作。
+<img src="guide/9-21.jpg" style="zoom: 50%;" >
 
+- 接著將拇指按鍵上的Row跟Column各接、拉1條等長的線出來。
+<img src="guide/9-22.jpg" style="zoom: 50%;" >
+
+- 完成後將按鍵線固定在底板，再接到底殼上。
+<img src="guide/9-23.jpg" style="zoom: 50%;" >
+<img src="guide/9-24.jpg" style="zoom: 50%;" >
+<img src="guide/9-25.jpg" style="zoom: 50%;" >
+
+- 將電線裁切好後，將按鍵卸下，準備接2pin公排針。
+<img src="guide/9-26.jpg" style="zoom: 50%;" >
+<img src="guide/9-27.jpg" style="zoom: 50%;" >
+
+- 4顆按鍵完成後，按照排線的長度依序對好底板位置，再將按鍵安裝回去。
+<img src="guide/9-28.jpg" style="zoom: 50%;" >
+<img src="guide/9-29.jpg" style="zoom: 50%;" >
+<img src="guide/9-30.jpg" style="zoom: 50%;" >
+
+- 接著將各個按鍵的排線依序接上排針母座。
+<img src="guide/9-31.jpg" style="zoom: 50%;" >
+<img src="guide/9-32.jpg" style="zoom: 50%;" >
+
+- 稍微旋轉一下將電線集成一束。
+<img src="guide/9-33.jpg" style="zoom: 50%;" >
+
+- 最後將基座螺絲鎖上就完成了。
+<img src="guide/9-34.jpg" style="zoom: 50%;" >
+<img src="guide/9-35.jpg" style="zoom: 50%;" >
+
+#### C、最後安裝
+
+- 再來將完成安裝的左右手接在雲台上，接上TRRS線後接電腦。
+<img src="guide/9-36.jpg" style="zoom: 50%;" >
+
+- 測試按鍵、安裝鍵帽後就完成了。
+<img src="guide/9-37.jpg" style="zoom: 50%;" >
+
+- 接著請到[操作說明](manual.md)那邊瞭解這把鍵盤的特殊操作模式。
 
 
