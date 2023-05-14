@@ -127,28 +127,11 @@
 <img src="image/manual/3d-1.png" style="zoom: 50%;" >
 <img src="image/manual/3d-2.jpg" style="zoom: 50%;" >
 
-## （四）拇指區
+## （四）特殊配列
 
-
-
-### A、拇指區基座
-
-
-
-
-### B、底板
-
-
-
-
-### C、按鍵數量
-
-
-
-
-## （五）特殊配列
-
-
+> **Note**
+>
+> 以下配列都是可以運行且正常使用的，不用懷疑。
 
 ### A、標準VIAL預設配列
 <img src="image/manual/5a-1.png" style="zoom: 50%;" >
@@ -162,11 +145,169 @@
 <img src="image/manual/5c-1.png" style="zoom: 50%;" >
 <img src="image/manual/5c-2.jpg" style="zoom: 50%;" >
 
+## （五）拇指區
+
+> **Warning**
+>
+> 拇指區會根據是否為直接焊接Row或是可插拔按鍵的安裝形式有不同的變更模式。
+
+> **Note**
+>
+> 操作說明這裡提到的拇指區為已經安裝完畢的鍵盤。
+
+### A、調整角度
+
+- 首先將拇指區基座螺絲卸下。
+<img src="image/manual/4-1.jpg" style="zoom: 50%;" >
+<img src="image/manual/4-2.jpg" style="zoom: 50%;" >
+
+- 再將排線跟主鍵盤分離，卸下拇指區。
+<img src="image/manual/4-3.jpg" style="zoom: 50%;" >
+
+- 接著將拇指基座上的螺絲卸下，將拇指底板跟基座分離。
+<img src="image/manual/4-4.jpg" style="zoom: 50%;" >
+<img src="image/manual/4-5.jpg" style="zoom: 50%;" >
+
+> **Note**
+>
+> 基座部分有0～90度可以調整拇指區，合計7個檔位可以選擇。
+<img src="image/guide/2-13.jpg" style="zoom: 50%;" >
+
+- 選好想要微調的角度後，再將螺絲鎖回去。
+<img src="image/manual/4-6.jpg" style="zoom: 50%;" >
+
+- 再將排線對號順序接回去。
+<img src="image/manual/4-7.jpg" style="zoom: 50%;" >
+
+- 完成！
+<img src="image/manual/4-8.jpg" style="zoom: 50%;" >
+
+### B、定位板挪移
+
+> **Warning**
+>
+> 直接焊接Row拇指區的話，唯一可以變更的只有底板樣式，請往下看操作說明。
+
+- 按照調整角度拆卸方式，將拇指區卸下。
+<img src="image/manual/4-5.jpg" style="zoom: 50%;" >
+
+- 型號A的長底板可以將拇指定位板做前後挪移，這裡先示範移動空白鍵。
+<img src="image/manual/4-9.jpg" style="zoom: 50%;" >
+
+- 首先將空白鍵底板上的螺絲卸下。
+<img src="image/manual/4-10.jpg" style="zoom: 50%;" >
+
+- 將空白鍵移動至要變更的螺絲孔位。
+<img src="image/manual/4-11.jpg" style="zoom: 50%;" >
+
+- 再將螺絲鎖回去。
+<img src="image/manual/4-12.jpg" style="zoom: 50%;" >
+
+- 接著將拇指區基座裝回去。
+<img src="image/manual/4-7.jpg" style="zoom: 50%;" >
+
+- 效果會是這樣。
+<img src="image/manual/4-8.jpg" style="zoom: 50%;" >
+
+> **Note**
+>
+> 這是只有變更單鍵的底板，如果全部固定的按鍵都要變更底板的話，就將所有的底板拆下來，把底板變更完畢後再裝回去。
+
+### C、變更底板
+
+> **Warning**
+>
+> 只有AA及AB底板可以連接基座，這裡再強調一次。
+<img src="image/guide/2-12.jpg" style="zoom: 50%;" >
+
+- 首先將拇指區跟基座卸下。
+<img src="image/manual/4-5.jpg" style="zoom: 50%;" >
+
+- 接著將基座調整到另一片可連接基座的底板上。
+<img src="image/manual/4-13.jpg" style="zoom: 50%;" >
+
+- 將基座安裝上去。
+<img src="image/manual/4-14.jpg" style="zoom: 50%;" >
+<img src="image/manual/4-15.jpg" style="zoom: 50%;" >
+
+- 接著再將排線接在主鍵盤上。
+<img src="image/manual/4-16.jpg" style="zoom: 50%;" >
+<img src="image/manual/4-17.jpg" style="zoom: 50%;" >
+
+- 最後將拇指基座安裝回去。
+<img src="image/manual/4-18.jpg" style="zoom: 50%;" >
+
+- 效果圖：
+<img src="image/manual/4-19.jpg" style="zoom: 50%;" >
+
+- 雙手對比：
+<img src="image/manual/4-20.jpg" style="zoom: 50%;" >
+
+### D、變更按鍵數量
+
+> **Warning**
+>
+> 直接焊接Row拇指區的話，需要動用電烙鐵才可變更按鍵數量。
+<img src="image/manual/4-21jpg" style="zoom: 50%;" >
+
+> **Note**
+>
+> 可插拔按鍵才可直接插拔變更按鍵數量，請下拉閱讀操作說明。
+
+- 首先將拇指區跟基座卸下。
+<img src="image/manual/4-22.jpg" style="zoom: 50%;" >
+
+- 接著來示範將這顆最內側的按鍵卸掉。
+<img src="image/manual/4-23.jpg" style="zoom: 50%;" >
+
+- 將最內側按鍵下方的螺絲卸下，分離按鍵。
+<img src="image/manual/4-24.jpg" style="zoom: 50%;" >
+
+- 再將隔壁的按鍵也卸下。
+<img src="image/manual/4-25.jpg" style="zoom: 50%;" >
+
+- 再來把連接器上頭的固定螺絲解下，分離底板。
+<img src="image/manual/4-26.jpg" style="zoom: 50%;" >
+<img src="image/manual/4-27.jpg" style="zoom: 50%;" >
+
+- 接著把卸除的按鍵鎖回去。
+<img src="image/manual/4-28.jpg" style="zoom: 50%;" >
+
+- 最後把調整好的拇指按鍵接上基座。
+<img src="image/manual/4-29.jpg" style="zoom: 50%;" >
+
+- 依據配線圖將最外側按鍵的排線接回去。
+<img src="image/manual/4-30.jpg" style="zoom: 50%;" >
+<img src="image/manual/4-31.jpg" style="zoom: 50%;" >
+
+- 效果會是這樣，排線會少一條。
+<img src="image/manual/4-32.jpg" style="zoom: 50%;" >
+
+- 將基座安裝回去就完成了。
+<img src="image/manual/4-33.jpg" style="zoom: 50%;" >
+
+- 效果會是這樣：
+<img src="image/manual/4-34.jpg" style="zoom: 50%;" >
+
+- 雙手鍵盤對比。
+<img src="image/manual/4-35.jpg" style="zoom: 50%;" >
+
 ## （六）結語
 
+- 如果真的有人組完鍵盤並且閱讀到這裡，真的恭喜你/妳獲得一把自由度極高的分離式鍵盤，喜歡它的話，可以將它分享出去。
+- 如果有人組裝好願意分享照片給我的話，可以用任何方式聯繫我，我會將鍵盤的美照放在下方展示給大家知道。
 
+> **Note**
+>
+> 最後最後，我想告訴大家，我把改裝的自由度給了你，讓你去探索它，這就是為什麼我將它命名為探索者，希望你能愛上鍵盤，玩出新花樣。
+>
+> 謝謝大家。
 
+## （七）照片展示區
 
+> **Note**
+>
+> 待更新。
 
 
 
