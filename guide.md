@@ -63,7 +63,9 @@
 
 ## 配列部件表
 
-- 部分組件為對稱設計，但檔案數量龐大，還是將組件建立成左右區分，方便大家列印時參考用。
+> **Note**
+> 
+> 部分組件為對稱設計，但檔案數量龐大，還是將組件建立成左右區分，方便大家列印時參考用。
 
 | 部件名稱 | 左右區分 | 選項A | 選項B | 備註 |
 | ------- | ------- | ----- | ----- | ---- |
@@ -243,9 +245,12 @@
 - Pro Micro針腳腳位示意圖：
 <img src="image/guide/3-1-promicro.png" style="zoom: 50%;" >
 
-> **Note**
+> **Warning**
+>
 > 完整矩陣走線圖務必記下來，後續佈線的時候會一直用到。
-> 
+
+> **Note**
+>
 > 探索者1號使用的Firmware為4x6+4的Keymap，全配列通用一個韌體控制（one firmware controls all），目的為增大鍵盤的改裝自由度；原理為開關ON/OFF的基本道理，這裡不理解沒有關係，之後會在[操作說明書中](manual.md)做解說。
 
 - 3x6、4x6佈線圖：
@@ -272,7 +277,7 @@
 
 - 首先我們需要焊接1N1418貼片二級管到單格電路板上，由於貼片式二極管真的太小，我的手機無法使用微距拍攝，這邊借用一下網路上的[商品圖](https://www.alibaba.com/product-detail/Switching-diode-1N4148WT-1N4148-T4-SOD123_60811969627.html)。
  
-> **Note**
+> **Warning**
 > 
 > 二極體有分正負極之分，其中有直線的那端為負極，這裡不知道什麼是負極沒有關係，就根據有線的那端作為方向性安裝。
 <img src="image/guide/4-3.jpg" style="zoom: 50%;" >
@@ -385,7 +390,7 @@
 <img src="image/guide/6-4.png" style="zoom: 50%;" >
 <img src="image/guide/6-5.png" style="zoom: 50%;" >
 
-> **Warning**
+> **Note**
 > 
 > 在組裝說明第三點有提到：全配列使用同一個韌體，這樣的好處是自由度增大，會在[操作說明](manual.md)提及。
 
@@ -417,7 +422,7 @@
 
 #### B、建立主控座
 
-> **Note**
+> **Warning**
 > 
 > 主控座排線的部分會使用到RX1、右邊的GND、VCC，用於控制TRRS的訊號傳輸；矩陣部分會使用D4、C6、D7、E6、B4、B5作為Column；F7、B1、B3、B2、B6作為Row。也就是框起來的pin腳。
 <img src="image/guide/6-14.jpg" style="zoom: 50%;" >
@@ -602,7 +607,7 @@
 - 將主控座跟排線先卸下，準備排針母座。
 <img src="image/guide/7-21.jpg" style="zoom: 50%;" >
 
-> **Note**
+> **Warning**
 > 
 > 特別留意在接線前要先將熱縮管套上。
 
