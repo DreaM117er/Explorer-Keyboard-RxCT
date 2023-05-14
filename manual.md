@@ -8,16 +8,17 @@
 
 - 探索者1號是完全支援雲台的分離式鍵盤，沒有其他的安裝方式，但也不是什麼雲台配件都可以使用，這裡我會列出以下幾點安裝雲台時的要求：
   - 底板面積要大。
-  - 底板面積要比單手鍵盤本體重量要重。
-- 建議配置[ARCA快拆系統](https://www.google.com.tw/search?q=arca+tripod&sxsrf=APwXEddPAT1f29tii0hugS33QeRQuseIqA%3A1684040734940&ei=HmxgZLWHOZiD-AadibfoCw&ved=0ahUKEwi1jqzOhPT-AhWYAd4KHZ3EDb0Q4dUDCBA&uact=5&oq=arca+tripod&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABgAGgAcAF4AIABAIgBAJIBAJgBAA&sclient=gws-wiz-serp)：
-  - 留意整體大小不要衝突主控座，特別是有線TRRS座的安裝。
+  - 底座要比單手鍵盤本體重量要重。
+
+- 建議配置[Arca快拆系統](https://www.google.com.tw/search?q=arca+tripod&sxsrf=APwXEddPAT1f29tii0hugS33QeRQuseIqA%3A1684040734940&ei=HmxgZLWHOZiD-AadibfoCw&ved=0ahUKEwi1jqzOhPT-AhWYAd4KHZ3EDb0Q4dUDCBA&uact=5&oq=arca+tripod&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABgAGgAcAF4AIABAIgBAJIBAJgBAA&sclient=gws-wiz-serp)：
+  - 留意整體大小不要衝突主控座，特別是有線TRRS座主控座的安裝。
   - 穩固鍵盤本體。
   - 快速拆卸雲台，方便直接調整底座的角度。
 
 ### B、雲台安裝步驟
 
 - 以下說明並非廠商廣告，請當作參考閱讀。
-- 作者我本人使用的雲台配件如下，[SmallRig](https://www.smallrig.com/)：1092、2065，[Falcam](https://www.falcam.com.cn/)：2400、2401。
+- 作者我本人使用的雲台配件如下，[SmallRig](https://www.smallrig.com/)：[1092](https://www.smallrig.com/cool-cheese-plate-v3-multi-purpose-mounting-plate-1092.html)、[2065](https://www.smallrig.com/smallrig-articulating-arm-5-5-inches-2065.html)，[Falcam](https://www.falcam.com.cn/)：[F38 series 2400（2465）](https://www.falcam.com.cn/falcam-f38-pd-quick-release-plate-2465_p64.html)、[2401](https://www.falcam.com.cn/falcam-f38-anti-deflection-quick-release-plate-2401_p61.html)。
 <img src="image/manual/1-1.jpg" style="zoom: 50%;" >
 
 - 首先安裝單邊魔術手臂到洞洞板的位置上。
@@ -30,13 +31,13 @@
 - 將魔術手臂鎖緊固定好。
 <img src="image/manual/1-5.jpg" style="zoom: 50%;" >
 
-- 將ARCA快拆系統的母座安裝上去。
+- 將Arca快拆系統母座安裝上去。
 <img src="image/manual/1-6.jpg" style="zoom: 50%;" >
 
 - 再將另一支手臂安裝好。
 <img src="image/manual/1-7.jpg" style="zoom: 50%;" >
 
-- 接著將ARCA子板安裝在鍵盤雲台上。
+- 接著將Arca子板安裝在鍵盤雲台上。
 <img src="image/manual/1-8.jpg" style="zoom: 50%;" >
 
 - 螺絲鎖緊。
@@ -60,7 +61,16 @@
 - 完成！
 <img src="image/manual/1-15.jpg" style="zoom: 50%;" >
 
-## （二）VIAL QMK按鍵設定
+## （二）排線原理及VIAL QMK按鍵設定
+
+- 閱讀到操作說明這邊的讀者，假如你/妳是按照標準的排線安裝流程組裝鍵盤的話，這邊會告訴你這樣做的原理。
+
+
+
+
+
+
+- 探索者1號不限配列，統一使用一個韌體，這樣設計的原因為增加鍵盤的可玩性，接著來說明VIAL要如何改按鍵。
 
 
 
@@ -116,23 +126,19 @@
 
 ## （五）原理及特殊配列
 
-### A、排線原理
 
 
-
-### B、標準VIAL預設配列
-
-
-
-
-### C、左手4x5+3、右手3x6+3
+### A、標準VIAL預設配列
 
 
 
 
-### D、左手3x5+3、右手標準VIAL配列
+### B、左手4x5+3、右手3x6+3
 
 
+
+
+### C、左手3x6+3、右手標準VIAL配列
 
 
 
