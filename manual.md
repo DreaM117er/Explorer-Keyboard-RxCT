@@ -248,7 +248,7 @@
 > **Warning**
 >
 > 直接焊接Row拇指區的話，需要動用電烙鐵才可變更按鍵數量。
-<img src="image/manual/4-21jpg" style="zoom: 50%;" >
+<img src="image/manual/4-21.jpg" style="zoom: 50%;" >
 
 > **Note**
 >
