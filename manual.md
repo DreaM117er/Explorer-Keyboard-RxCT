@@ -8,9 +8,9 @@
 
 - 探索者1號是完全支援雲台的分離式鍵盤，沒有其他的安裝方式，但也不是什麼雲台配件都可以使用，這裡我會列出以下幾點安裝雲台時的要求：
   - 底板面積要大。
-  - 底板面積要比單手鍵盤本體重量要重。
+  - 底座要比單手鍵盤本體重量要重。
 - 建議配置[ARCA快拆系統](https://www.google.com.tw/search?q=arca+tripod&sxsrf=APwXEddPAT1f29tii0hugS33QeRQuseIqA%3A1684040734940&ei=HmxgZLWHOZiD-AadibfoCw&ved=0ahUKEwi1jqzOhPT-AhWYAd4KHZ3EDb0Q4dUDCBA&uact=5&oq=arca+tripod&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABgAGgAcAF4AIABAIgBAJIBAJgBAA&sclient=gws-wiz-serp)：
-  - 留意整體大小不要衝突主控座，特別是有線TRRS座的安裝。
+  - 留意整體大小不要衝突主控座，特別是有線TRRS座主控座的安裝。
   - 穩固鍵盤本體。
   - 快速拆卸雲台，方便直接調整底座的角度。
 
@@ -61,6 +61,8 @@
 <img src="image/manual/1-15.jpg" style="zoom: 50%;" >
 
 ## （二）VIAL QMK按鍵設定
+
+- 探索者1號不限配列，統一使用一個韌體，這樣設計的原因為增加鍵盤的可玩性，接著來說明VIAL要如何改按鍵。
 
 
 
@@ -130,9 +132,7 @@
 
 
 
-### D、左手3x5+3、右手標準VIAL配列
-
-
+### D、左手3x6+3、右手標準VIAL配列
 
 
 
