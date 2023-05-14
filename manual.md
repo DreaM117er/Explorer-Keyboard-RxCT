@@ -18,7 +18,7 @@
 ### B、雲台安裝步驟
 
 - 以下說明並非廠商廣告，請當作參考閱讀。
-- 作者我本人使用的雲台配件如下，[SmallRig](https://www.smallrig.com/)：1092、2065，[Falcam](https://www.falcam.com.cn/)：2400、2401。
+- 作者我本人使用的雲台配件如下，[SmallRig](https://www.smallrig.com/)：[1092](https://www.smallrig.com/cool-cheese-plate-v3-multi-purpose-mounting-plate-1092.html)、[2065](https://www.smallrig.com/smallrig-articulating-arm-5-5-inches-2065.html)，[Falcam](https://www.falcam.com.cn/)：[F38 series 2400(2465)](https://www.falcam.com.cn/falcam-f38-pd-quick-release-plate-2465_p64.html)、[2401](https://www.falcam.com.cn/falcam-f38-anti-deflection-quick-release-plate-2401_p61.html)。
 <img src="image/manual/1-1.jpg" style="zoom: 50%;" >
 
 - 首先安裝單邊魔術手臂到洞洞板的位置上。
