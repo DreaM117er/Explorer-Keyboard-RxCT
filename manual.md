@@ -204,7 +204,7 @@
 - 再將螺絲鎖回去。
 <img src="image/manual/4-12.jpg" style="zoom: 50%;" >
 
-- 接著將拇指區基座裝回去。
+- 接著將排線接上主鍵盤後，再將拇指區基座裝回去。
 <img src="image/manual/4-7.jpg" style="zoom: 50%;" >
 
 - 效果會是這樣。
