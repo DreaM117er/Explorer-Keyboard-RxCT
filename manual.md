@@ -22,8 +22,11 @@
 
 ### B、雲台安裝步驟
 
-- 以下說明並非廠商廣告，請當作參考閱讀。
-- 作者我本人使用的雲台配件如下，[SmallRig](https://www.smallrig.com/)：[1092](https://www.smallrig.com/cool-cheese-plate-v3-multi-purpose-mounting-plate-1092.html)、[2065](https://www.smallrig.com/smallrig-articulating-arm-5-5-inches-2065.html)，[Falcam](https://www.falcam.com.cn/)：[F38 series 2400（2465）](https://www.falcam.com.cn/falcam-f38-pd-quick-release-plate-2465_p64.html)、[2401](https://www.falcam.com.cn/falcam-f38-anti-deflection-quick-release-plate-2401_p61.html)。
+> **Warning**
+>
+> 以下說明並非廠商廣告，請當作參考閱讀。
+
+- 我使用的雲台配件如下，[SmallRig](https://www.smallrig.com/)：[1092](https://www.smallrig.com/cool-cheese-plate-v3-multi-purpose-mounting-plate-1092.html)、[2065](https://www.smallrig.com/smallrig-articulating-arm-5-5-inches-2065.html)，[Falcam](https://www.falcam.com.cn/)：[F38 series 2400（2465）](https://www.falcam.com.cn/falcam-f38-pd-quick-release-plate-2465_p64.html)、[2401](https://www.falcam.com.cn/falcam-f38-anti-deflection-quick-release-plate-2401_p61.html)。
 <img src="image/manual/1-1.jpg" style="zoom: 50%;" >
 
 - 首先安裝單邊魔術手臂到洞洞板的位置上。
@@ -70,10 +73,14 @@
 
 ### 排線原理
 
-- 閱讀到操作說明這邊的讀者，假如你/妳是按照標準的排線安裝流程組裝鍵盤的話，這邊會告訴你這樣做的原理：
+> **Note**
+>
+> 也閱讀到操作說明這邊的讀者，假如你/妳是按照標準的排線安裝流程組裝鍵盤的話，這邊會告訴你這樣做的原理：
 <img src="image/manual/2-1.png" style="zoom: 50%;" >
 
-- 除了將矩陣用排針的形式拓展之外，這樣做的原理還可以當作另一種開關的形式。打個比方：我要在4x5主配列上做1列的拓展，就將拓展上的排線接上去，鍵盤就會立即辨識。也就是說，在還沒有接上拓展排線時，鍵盤拓展為Off，接上的時候為On。
+> **Note**
+>
+> 也除了將矩陣用排針的形式拓展之外，這樣做的原理還可以當作另一種開關的形式。打個比方：我要在4x5主配列上做1列的拓展，就將拓展上的排線接上去，鍵盤就會立即辨識。也就是說，在還沒有接上拓展排線時，鍵盤拓展為Off，接上的時候為On。
 
 > **Note**
 >
@@ -106,22 +113,19 @@
 
 ### A、3x5配列
 <img src="image/manual/3a-1.png" style="zoom: 50%;" >
-
+<img src="image/manual/3a-2.jpg" style="zoom: 50%;" >
 
 ### B、4x5配列
 <img src="image/manual/3b-1.png" style="zoom: 50%;" >
-
-
+<img src="image/manual/3b-2.jpg" style="zoom: 50%;" >
 
 ### C、3x6配列
 <img src="image/manual/3c-1.png" style="zoom: 50%;" >
-
-
+<img src="image/manual/3c-2.jpg" style="zoom: 50%;" >
 
 ### D、4x6配列
 <img src="image/manual/3d-1.png" style="zoom: 50%;" >
-
-
+<img src="image/manual/3d-2.jpg" style="zoom: 50%;" >
 
 ## （四）拇指區
 
@@ -148,21 +152,15 @@
 
 ### A、標準VIAL預設配列
 <img src="image/manual/5a-1.png" style="zoom: 50%;" >
-
-
+<img src="image/manual/5a-2.jpg" style="zoom: 50%;" >
 
 ### B、左手4x5+3、右手3x6+3
 <img src="image/manual/5b-1.png" style="zoom: 50%;" >
-
-
+<img src="image/manual/5b-2.jpg" style="zoom: 50%;" >
 
 ### C、左手3x6+3、右手標準VIAL配列
 <img src="image/manual/5c-1.png" style="zoom: 50%;" >
-
-
-
-
-
+<img src="image/manual/5c-2.jpg" style="zoom: 50%;" >
 
 ## （六）結語
 
