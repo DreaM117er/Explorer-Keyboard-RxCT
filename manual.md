@@ -10,7 +10,7 @@
   - 底板面積要大。
   - 底座要比單手鍵盤本體重量要重。
 
-- 建議配置[ARCA快拆系統](https://www.google.com.tw/search?q=arca+tripod&sxsrf=APwXEddPAT1f29tii0hugS33QeRQuseIqA%3A1684040734940&ei=HmxgZLWHOZiD-AadibfoCw&ved=0ahUKEwi1jqzOhPT-AhWYAd4KHZ3EDb0Q4dUDCBA&uact=5&oq=arca+tripod&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABgAGgAcAF4AIABAIgBAJIBAJgBAA&sclient=gws-wiz-serp)：
+- 建議配置[Arca快拆系統](https://www.google.com.tw/search?q=arca+tripod&sxsrf=APwXEddPAT1f29tii0hugS33QeRQuseIqA%3A1684040734940&ei=HmxgZLWHOZiD-AadibfoCw&ved=0ahUKEwi1jqzOhPT-AhWYAd4KHZ3EDb0Q4dUDCBA&uact=5&oq=arca+tripod&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABgAGgAcAF4AIABAIgBAJIBAJgBAA&sclient=gws-wiz-serp)：
   - 留意整體大小不要衝突主控座，特別是有線TRRS座主控座的安裝。
   - 穩固鍵盤本體。
   - 快速拆卸雲台，方便直接調整底座的角度。
@@ -31,13 +31,13 @@
 - 將魔術手臂鎖緊固定好。
 <img src="image/manual/1-5.jpg" style="zoom: 50%;" >
 
-- 將ARCA快拆系統的母座安裝上去。
+- 將Arca快拆系統母座安裝上去。
 <img src="image/manual/1-6.jpg" style="zoom: 50%;" >
 
 - 再將另一支手臂安裝好。
 <img src="image/manual/1-7.jpg" style="zoom: 50%;" >
 
-- 接著將ARCA子板安裝在鍵盤雲台上。
+- 接著將Arca子板安裝在鍵盤雲台上。
 <img src="image/manual/1-8.jpg" style="zoom: 50%;" >
 
 - 螺絲鎖緊。
