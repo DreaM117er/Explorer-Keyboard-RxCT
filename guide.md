@@ -506,7 +506,11 @@
 - 把3pin公排針夾上固定夾
 <img src="image/guide/6-50.jpg" style="zoom: 50%;" >
 
-- 依照TRRS座接電線的方式，在針腳上刷一點錫（這裡特別留意上錫的時間不能超過1秒，排針上的塑料固定口會融化崩解）。
+> **Warning**
+> 
+> 這裡特別留意上錫的時間不能超過1秒，排針上的塑料固定口會融化崩解
+
+- 依照TRRS座接電線的方式，在針腳上刷一點錫。
 <img src="image/guide/6-51.jpg" style="zoom: 50%;" >
 <img src="image/guide/6-52.jpg" style="zoom: 50%;" >
 <img src="image/guide/6-53.jpg" style="zoom: 50%;" >
