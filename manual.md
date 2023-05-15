@@ -177,7 +177,7 @@
 - 選好想要微調的角度後，再將螺絲鎖回去。
 <img src="image/manual/4-6.jpg" style="zoom: 50%;" >
 
-- 再將排線對號順序接回去。
+- 再將排線對好順序接回去。
 <img src="image/manual/4-7.jpg" style="zoom: 50%;" >
 
 - 完成！
