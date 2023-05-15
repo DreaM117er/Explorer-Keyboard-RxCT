@@ -223,7 +223,7 @@
 > 
 > 完成外殼後務必先安裝鍵軸及鍵帽測試是不是適合自己，不適合的話再做微調，直到滿意為止。
 
-- 務必留意拇指區按鍵數量推薦焊接前先決定好，本篇組裝說明只會解說固定4鍵的拇指區。
+- 拇指區按鍵數量焊接前先決定好，本篇組裝說明只會解說固定4鍵的拇指區。
 <img src="image/guide/2-36.jpg" style="zoom: 50%;" >
 <img src="image/guide/2-37.jpg" style="zoom: 50%;" >
 <img src="image/guide/2-38.jpg" style="zoom: 50%;" >
@@ -506,7 +506,11 @@
 - 把3pin公排針夾上固定夾
 <img src="image/guide/6-50.jpg" style="zoom: 50%;" >
 
-- 依照TRRS座接電線的方式，在針腳上刷一點錫（這裡特別留意上錫的時間不能超過1秒，排針上的塑料固定口會融化崩解）。
+> **Warning**
+> 
+> 這裡特別留意上錫的時間不能超過1秒，排針上的塑料固定口會融化崩解
+
+- 依照TRRS座接電線的方式，在針腳上刷一點錫。
 <img src="image/guide/6-51.jpg" style="zoom: 50%;" >
 <img src="image/guide/6-52.jpg" style="zoom: 50%;" >
 <img src="image/guide/6-53.jpg" style="zoom: 50%;" >
