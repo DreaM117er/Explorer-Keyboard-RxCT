@@ -290,10 +290,6 @@
 - 依據單格電路板上的方向做安裝。
 <img src="image/guide/4-4.jpg" style="zoom: 50%;" >
 
-> **Note**
-> 
-> 沒有支援熱插拔座的話，可以直接跳到下一步。
-
 - 先在二極體焊點其中一邊點上錫。
 <img src="image/guide/4-5.jpg" style="zoom: 50%;" >
 
@@ -308,6 +304,10 @@
 <img src="image/guide/4-9.jpg" style="zoom: 50%;" >
 
 #### B、熱插拔座
+
+> **Note**
+> 
+> 沒有支援熱插拔座的話，可以直接跳到下一步。
 
 - 接著在熱插拔座單邊焊點先上一點錫。
 <img src="image/guide/4-10.jpg" style="zoom: 50%;" >
